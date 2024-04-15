@@ -1,0 +1,79 @@
+FOR Property1
+
+# Gauss PR
+
+> # RMSE Values for training and testing data
+
+> rmse_train
+[1] 0.3638774
+
+> rmse_test
+[1] 0.2162202
+
+> R2_train
+[1] 0.8486822
+
+> R2_test
+[1] 0.8402881
+> 
+> 
+> # SVR Model
+
+> rmse1_train
+[1] 0.1307016
+
+> rmse1_test
+[1] 1.145163
+
+
+> R2_train1
+[1] 0.8486822
+
+
+> R2_test1
+[1] -3.480018
+
+# Random Forest Regression
+rmse train
+0.8921201
+rmse test
+[1] 0.8818397
+
+Bagging
+training
+Accuracy  Kappa    
+  0.954416  0.9088404
+accuracy_Test
+ 0.9393939
+
+Random Forest Classification
+training
+mtry  Accuracy   Kappa    
+   2    0.9584046  0.9167786
+   7    0.9468661  0.8937016
+  12    0.9391738  0.8784075
+accuracy_Test
+0.969697
+
+Boosting
+Summary of sample sizes: 237, 237, 238, 239, 238, 237, ... 
+Resampling results across tuning parameters:
+
+  interaction.depth  n.trees  Accuracy   Kappa    
+  1                   50      0.8898746  0.7803167
+  1                  100      0.9472934  0.8948699
+  1                  150      0.9585470  0.9172357
+  2                   50      0.9545470  0.9091972
+  2                  100      0.9658006  0.9316436
+  2                  150      0.9656581  0.9313485
+  3                   50      0.9432934  0.8867501
+  3                  100      0.9585356  0.9172249
+  3                  150      0.9658006  0.9316840
+
+Tuning parameter 'shrinkage' was held constant at a value of 0.1
+Tuning parameter 'n.minobsinnode' was held constant at a value of 10
+Accuracy was used to select the optimal model using the largest value.
+The final values used for the model were n.trees = 100, interaction.depth = 2, shrinkage = 0.1 and n.minobsinnode = 10.
+
+accuracy_Test
+0.9545455

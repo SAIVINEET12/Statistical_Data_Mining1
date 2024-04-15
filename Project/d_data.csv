@@ -1,0 +1,508 @@
+name,Thickness,NFC,Brand,Battery,OS,VERSION,Bluetooth,PPI,Price,Announced,#5g_bands,#4g_bands,#3g_bands,#2g_bands,Total_bands,#cameras,nanometers,Weight,Single-MP,F,Size,Screen to body ratio,Internal,Ram,Wattage,Wireless Charging,CPU_mapped,CPU_score,GPU_mapped,GPU_score
+Samsung Galaxy F42 5G,9,0,Samsung,5000,Android,11,5,400,268.8,2021.75,11,11,4,4,30,4,7,203,8,2,6.6,82.1,128,6,15,0,MT6750 ,48,Mali-G57 MC5 ,106.2
+Samsung Galaxy M52 5G,7.4,1,Samsung,5000,Android,11,5,393,450.87,2021.75,1,16,5,4,26,4,6,173,32,2.2,6.7,86.4,128,6,25,0,Snapdragon 780G ,147,Adreno 640 ,117.7
+Samsung Galaxy M22,8.4,1,Samsung,5000,Android,11,5,274,268.8,2021.75,0,16,5,4,25,1,12,186,13,2.2,6.4,83.6,64,4,25,0,MT6752 ,48,Mali-G52 MC2 ,81.6
+Samsung Galaxy M32 5G,9.1,1,Samsung,5000,Android,11,5,270,220.987,2021.667,12,16,5,4,37,1,7,205,13,2.2,6.5,81.6,128,6,15,0,MT6753 ,49,Mali-G57 MC3 ,99.4
+Samsung Galaxy A03s,9.1,0,Samsung,5000,Android,11,5,270,152,2021.667,0,10,3,4,17,4,28,196,5,2.2,6.5,81.8,32,3,15,0,MT6735 ,42,PowerVR GE8320 ,51.3
+Samsung Galaxy A52s 5G,8.4,1,Samsung,4500,Android,11,5,405,415,2021.667,12,17,5,4,38,1,6,189,32,2.2,6.5,84.9,128,6,25,0,Snapdragon 780G ,147,Adreno 640 ,117.7
+Samsung Galaxy Z Fold3 5G,6.4,1,Samsung,4400,Android,11,5.2,374,1799.99,2021.667,8,25,5,4,42,4,5,271,4,1.8,7.6,88.8,256,12,25,0,Snapdragon 888 ,158,Adreno 660 ,131.3
+Samsung Galaxy Z Flip3 5G,6.9,1,Samsung,3300,Android,11,5.1,426,808.98,2021.667,8,25,5,4,42,3,5,183,10,2.4,6.7,84.7,128,8,15,0,Snapdragon 888 ,158,Adreno 660 ,131.3
+Samsung Galaxy A12 (India),8.9,0,Samsung,5000,Android,11,5,270,147.901,2021.667,0,10,3,4,17,1,8,205,8,2.2,6.5,82.1,64,4,15,0,Exynos 850 ,96,Mali-G52 MP6 ,103.8
+Samsung Galaxy A12 Nacho,8.9,1,Samsung,5000,Android,11,5,270,156.8,2021.667,0,10,3,4,17,1,8,205,8,2.2,6.5,82.1,32,3,15,0,Exynos 850 ,96,Mali-G52 MP6 ,103.8
+Samsung Galaxy M21 2021,9,0,Samsung,6000,Android,11,5,403,155.987,2021.583,0,9,4,4,17,4,10,192,20,2.2,6.4,84.2,64,4,15,0,Exynos 9611 ,103,Mali-G72 MP3 ,77
+Samsung Galaxy F22,9.4,1,Samsung,6000,Android,11,5,274,190.4,2021.583,0,1,3,4,8,1,12,203,13,2.2,6.4,83.5,64,4,15,0,MT6752 ,48,Mali-G52 MC2 ,81.6
+Samsung Galaxy M32,8.4,1,Samsung,5000,Android,11,5,411,357.77,2021.5,0,16,5,4,25,1,12,180,20,2.2,6.4,83.9,64,4,25,0,MT6752 ,48,Mali-G52 MC2 ,81.6
+Samsung Galaxy A22 5G,9,1,Samsung,5000,Android,11,5,399,231,2021.5,12,11,4,4,31,4,7,203,8,2,6.6,82.3,64,4,15,0,MT6750 ,48,Mali-G57 MC5 ,106.2
+Samsung Galaxy A22,8.4,0,Samsung,5000,Android,11,5,274,214.99,2021.5,0,10,3,4,17,1,12,186,13,2.2,6.4,84.3,64,4,15,0,MT6752 ,48,Mali-G52 MC2 ,81.6
+Samsung Galaxy Tab A7 Lite,8,0,Samsung,5100,Android,11,5,179,190.4,2021.417,0,14,5,4,23,1,12,366,2,,8.7,81.1,32,3,15,0,MT6752 ,48,PowerVR GE8320 ,51.3
+Samsung Galaxy Tab S7 FE,6.3,0,Samsung,10090,Android,11,5.2,243,728,2021.417,12,19,5,4,40,1,8,608,5,,12.4,84.6,64,4,45,0,Snapdragon 750G ,132,Adreno 619 ,103.4
+Samsung Galaxy F52 5G,8.7,0,Samsung,4500,Android,11,5,400,291.2,2021.417,4,10,4,4,22,1,8,199,16,2,6.6,83.6,128,8,25,0,Snapdragon 750G ,132,Adreno 619 ,103.4
+Samsung Galaxy M42 5G,8.6,1,Samsung,5000,Android,11,5,266,246.4,2021.333,9,14,5,4,32,1,8,190,20,2.2,6.6,84.3,128,6,15,0,Snapdragon 750G ,132,Adreno 619 ,103.4
+Samsung Galaxy M12,9.7,1,Samsung,5000,Android,11,5,270,217.14,2021.333,0,16,5,4,25,1,8,212,8,2.2,6.5,81.9,32,3,15,0,Exynos 850 ,96,Mali-G52 MP6 ,103.8
+Samsung Galaxy Quantum 2,8.1,1,Samsung,4500,Android,11,5,524,582.4,2021.333,1,16,5,4,26,4,7,176,10,2.2,6.7,90.7,128,6,25,0,Snapdragon 855+ ,145,Adreno 640 ,117.7
+Samsung Galaxy F12,9.7,0,Samsung,6000,Android,11,5,270,149.37,2021.333,0,8,3,4,15,1,8,221,8,2.2,6.5,81.9,64,4,15,0,Exynos 850 ,96,Mali-G52 MP6 ,103.8
+Samsung Galaxy F02s,9.1,0,Samsung,5000,Android,10,4.2,270,133.575,2021.333,0,10,3,4,17,4,14,196,5,2.2,6.5,81.8,32,3,15,0,Snapdragon 450 ,69,Adreno 506 ,59.7
+Samsung Galaxy A72,8.4,1,Samsung,5000,Android,11,5,394,500,2021.25,0,17,5,4,26,1,8,203,32,2.2,6.7,84.4,128,6,25,0,Snapdragon 720G ,123,Adreno 618 ,99
+Samsung Galaxy A52 5G,8.4,1,Samsung,4500,Android,11,5,407,372,2021.25,12,17,5,4,38,1,8,189,32,2.2,6.5,84.1,128,6,25,0,Snapdragon 750G ,132,Adreno 619 ,103.4
+Samsung Galaxy A52,8.4,1,Samsung,4500,Android,11,5,407,400,2021.25,0,17,5,4,26,1,8,189,32,2.2,6.5,84.1,128,4,25,0,Snapdragon 720G ,123,Adreno 618 ,99
+Samsung Galaxy Xcover 5,9.2,1,Samsung,3000,Android,11,5,311,319.1867,2021.25,0,16,5,4,25,1,8,172,5,2.2,5.3,67.7,64,4,15,0,Exynos 850 ,96,Mali-G52 MP6 ,103.8
+Samsung Galaxy A32,8.4,1,Samsung,5000,Android,11,5,411,279,2021.167,0,11,4,4,19,1,12,184,20,2.2,6.4,84.6,64,4,15,0,MT6752 ,48,Mali-G52 MC2 ,81.6
+Samsung Galaxy M62,9.5,1,Samsung,7000,Android,11,5,393,404.99,2021.167,0,16,5,4,25,1,7,218,32,2.2,6.7,86.7,128,8,25,0,Exynos 9825 ,142,Mali-G76 MP12 ,108.9
+Samsung Galaxy F62,9.5,1,Samsung,7000,Android,11,5,393,293.137,2021.167,0,16,5,4,25,1,7,218,32,2.2,6.7,86.7,128,6,25,0,Exynos 9825 ,142,Mali-G76 MP12 ,108.9
+Samsung Galaxy M12 (India),9.7,0,Samsung,6000,Android,11,5,270,123.487,2021.167,0,8,3,4,15,1,8,221,8,2.2,6.5,81.9,64,4,15,0,Exynos 850 ,96,Mali-G52 MP6 ,103.8
+Samsung Galaxy S21 Ultra 5G,8.9,1,Samsung,5000,Android,11,5.2,515,778,2021.083,8,25,5,4,42,1,5,227,40,2.2,6.8,89.8,128,12,25,0,Exynos 2100 ,156,Mali-G78 MP14 ,119.7
+Samsung Galaxy S21+ 5G,7.8,1,Samsung,4800,Android,11,5,394,639,2021.083,8,25,5,4,42,4,5,200,10,2.2,6.7,88.3,128,8,25,0,Exynos 2100 ,156,Mali-G78 MP14 ,119.7
+Samsung Galaxy S21 5G,7.9,1,Samsung,4000,Android,11,5,421,469.95,2021.083,8,25,5,4,42,4,5,169,10,2.2,6.2,87.2,128,8,25,0,Exynos 2100 ,156,Mali-G78 MP14 ,119.7
+Samsung Galaxy A32 5G,9.1,1,Samsung,5000,Android,11,5,270,145,2021.083,13,16,4,4,37,1,7,205,13,2.2,6.5,81.6,64,4,15,0,MT6753 ,49,Mali-G57 MC3 ,99.4
+Samsung Galaxy M02s,9.1,0,Samsung,5000,Android,10,5,270,128.44,2021.083,0,10,3,4,17,4,14,196,5,2.2,6.5,81.8,32,3,15,0,Snapdragon 450 ,69,Adreno 506 ,59.7
+Samsung Galaxy A12,8.9,1,Samsung,5000,Android,10,5,270,157.08,2020.917,0,10,3,4,17,1,28,205,8,2.2,6.5,82.1,32,2,15,0,MT6735 ,42,PowerVR GE8320 ,51.3
+Samsung Galaxy M02,9.1,0,Samsung,5000,Android,10,5,270,110.487,2021.167,0,10,3,4,17,3,28,206,5,2,6.5,81.9,32,2,0,0,MT6739 ,50,PowerVR GE8100 ,32.4
+Samsung Galaxy A02,9.1,0,Samsung,5000,Android,10,5.1,270,104,2021.083,0,10,3,4,17,3,28,206,5,2,6.5,81.9,32,2,0,0,MT6739 ,50,PowerVR GE8100 ,32.4
+Samsung Galaxy A02s,9.1,0,Samsung,5000,Android,10,4.2,270,109.99,2020.917,0,10,3,4,17,4,14,196,5,2.2,6.5,81.8,16,1,15,0,Snapdragon 450 ,69,Adreno 506 ,59.7
+Samsung Galaxy M21s,8.9,0,Samsung,6000,Android,10,5,403,257.6,2020.917,0,17,5,4,26,4,10,191,32,2,6.4,84.1,64,4,15,0,Exynos 9611 ,103,Mali-G72 MP3 ,77
+Samsung Galaxy M31 Prime,8.9,0,Samsung,6000,Android,10,5,403,212.8,2020.833,0,17,5,4,26,1,10,191,32,2,6.4,84.1,128,6,15,0,Exynos 9611 ,103,Mali-G72 MP3 ,77
+Samsung Galaxy F41,8.9,0,Samsung,6000,Android,10,5,403,233.87,2020.833,0,7,3,4,14,4,10,191,32,2,6.4,84.1,64,6,15,0,Exynos 9611 ,103,Mali-G72 MP3 ,77
+Samsung Galaxy Tab Active3,9.9,1,Samsung,5050,Android,10,5,283,672,2020.75,0,16,5,3,24,1,10,426,5,2.2,8,68.5,64,4,15,0,Exynos 9810 ,125,Mali-G72 MP18 ,105.9
+Samsung Galaxy S20 FE 5G,8.4,1,Samsung,4500,Android,10,5,407,499,2020.75,5,23,5,4,37,4,7,190,32,2.2,6.5,84.8,128,6,25,0,Snapdragon 865 ,149,Adreno 650 ,122.3
+Samsung Galaxy S20 FE,8.4,1,Samsung,4500,Android,10,5,407,460,2020.75,0,18,5,4,27,4,7,190,32,2.2,6.5,84.8,128,6,25,0,Exynos 9825 ,142,Mali G77 MP11 ,114.7
+Samsung Galaxy A42 5G,8.6,1,Samsung,5000,Android,10,5,266,319.99,2020.75,9,14,5,4,32,1,8,193,20,2.2,6.6,84.3,128,4,15,0,Snapdragon 750G ,132,Adreno 619 ,103.4
+Samsung Galaxy Tab A7 10.4 (2020),7,0,Samsung,7040,Android,10,5,224,268.8,2020.75,0,16,5,4,25,1,11,476,5,,10.4,79,32,3,15,0,Snapdragon 662 ,101,Adreno 610 ,80.2
+Samsung Galaxy M51,9.5,1,Samsung,7000,Android,10,5,393,427.39,2020.667,0,16,5,4,25,1,8,213,32,2,6.7,86.7,128,6,25,0,Snapdragon 730G ,124,Adreno 618 ,99
+Samsung Galaxy A51 5G UW,8.6,1,Samsung,4500,Android,10,5,405,550,2020.667,2,5,4,4,15,1,7,188,32,2.2,6.5,87.5,128,6,15,0,Snapdragon 765G ,134,Adreno 620 ,105.2
+Samsung Galaxy Z Fold2 5G,6.9,1,Samsung,4500,Android,10,5,373,1619.99,2020.667,10,21,5,4,40,4,7,282,10,2.2,7.6,88.6,256,12,25,0,Snapdragon 865+ ,150,Adreno 650 ,122.3
+Samsung Galaxy Note20 Ultra 5G,8.1,1,Samsung,4500,Android,10,5,496,1035,2020.667,7,26,5,4,42,4,7,208,10,2.2,6.9,91.7,128,12,25,0,Exynos 9825 ,142,Mali G77 MP11 ,114.7
+Samsung Galaxy Note20 Ultra,8.1,1,Samsung,4500,Android,10,5,496,1000.95,2020.667,0,22,5,4,31,4,7,208,10,2.2,6.9,91.7,256,8,25,0,Exynos 9825 ,142,Mali G77 MP11 ,114.7
+Samsung Galaxy Note20 5G,8.3,1,Samsung,4300,Android,10,5,393,650,2020.667,7,26,5,4,42,4,7,192,10,2.2,6.7,89.2,128,8,25,0,Exynos 9825 ,142,Mali G77 MP11 ,114.7
+Samsung Galaxy Note20,8.3,1,Samsung,4300,Android,10,5,393,664.99,2020.667,0,22,5,4,31,4,7,192,10,2.2,6.7,89.2,256,8,25,0,Exynos 9825 ,142,Mali G77 MP11 ,114.7
+Samsung Galaxy Tab S7+,5.7,0,Samsung,10090,Android,10,5,266,1008,2020.667,10,17,5,4,36,3,7,575,8,2,12.4,84.6,128,6,45,0,Snapdragon 865+ ,150,Adreno 650 ,122.3
+Samsung Galaxy Tab S7,6.3,0,Samsung,8000,Android,10,5,274,784,2020.667,10,17,5,4,36,3,7,498,8,2,11,83.6,128,6,45,0,Snapdragon 865+ ,150,Adreno 650 ,122.3
+Samsung Galaxy Z Flip 5G,7.2,1,Samsung,3300,Android,10,5,425,598.95,2020.583,6,24,5,4,39,3,7,183,10,2.4,6.7,82.5,256,8,15,0,Snapdragon 865+ ,150,Adreno 650 ,122.3
+Samsung Galaxy M31s,9.3,1,Samsung,6000,Android,10,5,405,730.17,2020.583,0,16,5,4,25,4,10,203,32,2.2,6.5,86.1,128,6,25,0,Exynos 9611 ,103,Mali-G72 MP3 ,77
+Samsung Galaxy M01s,7.8,0,Samsung,4000,Android,9,4.2,271,123.2,2020.583,0,10,3,4,17,3,12,168,8,2,6.2,80.7,32,3,0,0,MT6752 ,48,PowerVR GE8320 ,51.3
+Samsung Galaxy M01 Core,8.6,0,Samsung,3000,Android,10,5,311,67.2,2020.583,0,9,3,4,16,1,28,150,5,2.4,5.3,74.5,16,1,0,0,MT6739 ,50,PowerVR GE8100 ,32.4
+Samsung Galaxy A01 Core,8.6,0,Samsung,3000,Android,10,5,311,100,2020.583,0,10,3,4,17,1,28,150,5,2.4,5.3,74.5,16,1,0,0,MT6739 ,50,PowerVR GE8100 ,32.4
+Samsung Galaxy A71 5G UW,8.4,0,Samsung,4500,Android,10,5,393,475,2020.583,2,10,4,4,20,1,7,188,32,2.2,6.7,87.9,128,8,25,0,Snapdragon 765G ,134,Adreno 620 ,105.2
+Samsung Galaxy M01,9.8,0,Samsung,4000,Android,10,4.2,294,123.2,2020.5,0,10,3,4,17,3,12,168,5,2.2,5.7,78.1,32,3,0,0,Snapdragon 439 ,69,Adreno 505 ,52.8
+Samsung Galaxy A21s,8.9,1,Samsung,5000,Android,10,5,270,184.99,2020.417,0,11,4,4,19,1,8,192,13,2.2,6.5,82.8,32,2,15,0,Exynos 850 ,96,Mali-G52 MP6 ,103.8
+Samsung Galaxy J2 Core (2020),8.9,0,Samsung,2600,Android,8,4.2,220,145.6,2020.333,0,6,3,4,13,1,28,154,5,2.2,5,66.7,16,1,0,0,Snapdragon 425 ,49,Adreno 308 ,38.6
+Samsung Galaxy A Quantum,8.1,1,Samsung,4500,Android,10,5,393,560,2020.417,1,1,4,4,10,1,8,185,32,2.2,6.7,88.3,128,8,25,0,Exynos 980 ,135,Mali-G76 MP5 ,101.3
+Samsung Galaxy A71 5G,8.1,1,Samsung,4500,Android,10,5,393,390.01,2020.333,2,14,4,4,24,1,8,185,32,2.2,6.7,88.3,128,6,25,0,Exynos 980 ,135,Mali-G76 MP5 ,101.3
+Samsung Galaxy A51 5G,8.7,1,Samsung,4500,Android,10,5,405,188,2020.333,2,12,5,4,23,1,8,187,32,2.2,6.5,87.2,128,6,15,0,Exynos 980 ,135,Mali-G76 MP5 ,101.3
+Samsung Galaxy A21,8.1,1,Samsung,4000,Android,10,5,270,89.99,2020.333,0,20,5,4,29,1,28,193,13,2,6.5,79.3,32,3,15,0,MT6735 ,42,PowerVR GE8320 ,51.3
+Samsung Galaxy Tab A 8.4 (2020),7.1,0,Samsung,5000,Android,10,5,270,268.8,2020.25,0,8,4,4,16,1,NA,309,5,,8.4,80.9,32,3,0,0,,,,
+Samsung Galaxy Tab S6 Lite,7,0,Samsung,7040,Android,10,5,224,425.6,2020.333,0,14,5,4,23,1,10,467,5,,10.4,81.6,64,4,15,0,Exynos 9611 ,103,Mali-G72 MP3 ,77
+Samsung Galaxy M11,9,0,Samsung,5000,Android,10,4.2,268,219.99,2020.25,0,11,4,4,19,4,14,197,8,2,6.4,81.6,32,3,15,0,Snapdragon 450 ,69,Adreno 506 ,59.7
+Samsung Galaxy A31,8.6,1,Samsung,5000,Android,10,5,411,235,2020.25,0,10,4,4,18,1,14,185,20,2.2,6.4,84.9,64,4,15,0,MT6738 ,49,Mali-G52 MC2 ,81.6
+Samsung Galaxy A41,7.9,1,Samsung,3500,Android,10,5,431,467.74,2020.25,0,10,4,4,18,4,14,152,25,2.2,6.1,85.9,64,4,15,0,MT6738 ,49,Mali-G52 MC2 ,81.6
+Samsung Galaxy M21,8.9,0,Samsung,6000,Android,10,5,403,269,2020.25,0,9,4,4,17,4,10,188,20,2.2,6.4,84.2,64,4,15,0,Exynos 9611 ,103,Mali-G72 MP3 ,77
+Samsung Galaxy A11,8,0,Samsung,4000,Android,10,4.2,268,119.33,2020.25,0,11,4,4,19,4,14,177,8,2,6.4,81.6,32,2,15,0,Snapdragon 450 ,69,Adreno 506 ,59.7
+Samsung Galaxy M31,8.9,1,Samsung,6000,Android,10,5,403,269,2020.167,0,17,5,4,26,4,10,191,32,2,6.4,84.1,64,6,15,0,Exynos 9611 ,103,Mali-G72 MP3 ,77
+Samsung Galaxy S20 Ultra 5G,8.8,1,Samsung,5000,Android,10,5,511,619,2020.167,9,22,5,4,40,1,7,222,40,2.2,6.9,89.9,128,12,45,0,Exynos 9825 ,142,Mali G77 MP11 ,114.7
+Samsung Galaxy S20 Ultra,8.8,1,Samsung,5000,Android,10,5,511,652.5,2020.167,0,22,5,4,31,1,7,220,40,2.2,6.9,89.9,128,12,45,0,Exynos 9825 ,142,Mali G77 MP11 ,114.7
+Samsung Galaxy S20+ 5G,7.8,1,Samsung,4500,Android,10,5,525,531.24,2020.167,9,22,5,4,40,1,7,188,10,2.2,6.7,90.5,128,8,25,0,Exynos 9825 ,142,Mali G77 MP11 ,114.7
+Samsung Galaxy S20+,7.8,1,Samsung,4500,Android,10,5,525,531.24,2020.167,0,22,5,4,31,1,7,186,10,2.2,6.7,90.5,128,8,25,0,Exynos 9825 ,142,Mali G77 MP11 ,114.7
+Samsung Galaxy S20 5G UW,8.1,1,Samsung,4000,Android,10,5,566,985.6,2020.417,2,14,5,4,25,4,7,168,10,2.2,6.2,88.5,128,8,25,0,Snapdragon 865 ,149,Adreno 650 ,122.3
+Samsung Galaxy S20 5G,7.9,1,Samsung,4000,Android,10,5,563,457.56,2020.167,9,22,5,4,40,4,7,163,10,2.2,6.2,89.5,128,8,25,0,Exynos 9825 ,142,Mali G77 MP11 ,114.7
+Samsung Galaxy S20,7.9,1,Samsung,4000,Android,10,5,563,509.25,2020.167,0,22,5,4,31,4,7,163,10,2.2,6.2,89.5,128,8,25,0,Exynos 9825 ,142,Mali G77 MP11 ,114.7
+Samsung Galaxy Z Flip,7.2,1,Samsung,3300,Android,10,5,425,814.74,2020.167,0,27,5,4,36,3,7,183,10,2.4,6.7,82.5,256,8,15,0,Snapdragon 855+ ,145,Adreno 640 ,117.7
+Samsung Galaxy Tab S6 5G,5.7,0,Samsung,7040,Android,10,5,287,896,2020.083,1,13,4,4,22,3,7,420,8,2,10.5,82.5,128,6,15,0,Snapdragon 855+ ,145,Adreno 640 ,117.7
+Samsung Galaxy Xcover Pro,10,1,Samsung,4050,Android,10,5,409,420.99,2020.083,0,11,4,4,19,3,10,218,13,2,6.3,79.4,64,4,15,0,Exynos 9611 ,103,Mali-G72 MP3 ,77
+Samsung Galaxy Note10 Lite,8.7,1,Samsung,4500,Android,10,5,394,616,2020.083,0,16,5,4,25,4,10,199,32,2.2,6.7,86.6,128,6,25,0,Exynos 9810 ,125,Mali-G72 MP18 ,105.9
+Samsung Galaxy S10 Lite,8.1,1,Samsung,4500,Android,10,5,394,394.99,2020.083,0,17,5,4,26,4,7,186,32,2.2,6.7,87.8,128,6,45,0,Snapdragon 855 ,144,Adreno 640 ,117.7
+Samsung Galaxy A01,8.3,0,Samsung,3000,Android,10,4.2,294,50,2020,0,10,3,4,17,3,12,149,5,2.2,5.7,78.8,16,2,0,0,Snapdragon 439 ,69,Adreno 505 ,52.8
+Samsung Galaxy A71,7.7,1,Samsung,4500,Android,10,5,393,330.6,2020,0,16,4,4,24,1,8,179,32,2.2,6.7,87.2,128,6,25,0,Snapdragon 780G ,147,Adreno 618 ,99
+Samsung Galaxy A51,7.9,1,Samsung,4000,Android,10,5,405,197.5,2020,0,17,4,4,25,1,10,172,32,2.2,6.5,87.4,64,4,15,0,Exynos 9611 ,103,Mali-G72 MP3 ,77
+Samsung Galaxy Xcover FieldPro,14.2,1,Samsung,4500,Android,8,5,576,1142.4,2019.833,0,16,5,4,25,1,10,256,8,1.7,5.1,56.1,64,4,0,0,Exynos 9810 ,125,Mali-G72 MP18 ,105.9
+Samsung Galaxy A70s,7.9,1,Samsung,4500,Android,9,5,393,425.6,2019.75,0,9,4,4,17,4,11,187,32,2,6.7,86,128,6,25,0,Snapdragon 675 ,112,Adreno 612 ,82.1
+Samsung Galaxy A20s,8,0,Samsung,4000,Android,9,4.2,264,175,2019.75,0,13,5,4,22,4,14,183,8,2,6.5,81.9,32,2,15,0,Snapdragon 450 ,69,Adreno 506 ,59.7
+Samsung Galaxy M30s,8.9,1,Samsung,6000,Android,9,5,403,291.2,2019.75,0,9,4,4,17,4,10,188,16,2,6.4,84.2,64,4,15,0,Exynos 9611 ,103,Mali-G72 MP3 ,77
+Samsung Galaxy M10s,7.8,0,Samsung,4000,Android,9,5,268,123.2,2019.75,0,9,4,4,17,3,14,169,8,2,6.4,85,32,3,15,0,Exynos 7884 ,92,Mali-G71 MP2 ,62.9
+Samsung Galaxy A03 Core,9.1,0,Samsung,5000,Android,0,5,,162.97,2021.917,0,1,3,4,8,1,NA,,5,2.2,6.5,,32,2,0,0,,,PowerVR GE8320 ,51.3
+Samsung Galaxy Fold 5G,6.9,1,Samsung,4235,Android,9,5,362,1090.5867,2019.167,1,22,5,4,32,5,7,276,,,7.3,85.7,512,12,15,0,Snapdragon 855 ,144,Adreno 640 ,117.7
+Samsung Galaxy Fold,6.9,1,Samsung,4380,Android,9,5,362,1960,2019.167,0,22,5,4,31,5,7,276,,,7.3,85.7,512,12,15,0,Snapdragon 855 ,144,Adreno 640 ,117.7
+Samsung Galaxy Tab Active Pro,9.9,1,Samsung,7600,Android,9,5,224,672,2019.75,0,16,5,3,24,1,10,653,8,,10.1,71.4,64,4,15,0,Snapdragon 710 ,113,Adreno 616 ,90.1
+Samsung Galaxy A90 5G,8.4,1,Samsung,4500,Android,9,5,393,345.7867,2019.75,2,17,5,4,28,4,7,206,32,2,6.7,86.1,128,6,25,0,Snapdragon 855 ,144,Adreno 640 ,117.7
+Samsung Galaxy A30s,7.8,1,Samsung,4000,Android,9,5,268,246.17,2019.667,0,16,5,4,25,4,14,169,16,2,6.4,84.9,32,3,15,0,Exynos 7904 ,96,Mali-G71 MP2 ,62.9
+Samsung Galaxy A50s,7.7,1,Samsung,4000,Android,9,5,403,324.8,2019.667,0,10,4,4,18,4,10,169,32,2,6.4,85.1,64,4,15,0,Exynos 9611 ,103,Mali-G72 MP3 ,77
+Samsung Galaxy Note10+ 5G,7.9,1,Samsung,4300,Android,9,5,498,650,2019.667,4,22,5,4,35,1,7,198,10,2.2,6.8,91,256,12,45,0,Exynos 9825 ,142,Mali-G76 MP12 ,108.9
+Samsung Galaxy Note10+,7.9,1,Samsung,4300,Android,9,5,498,422,2019.667,0,23,5,4,32,1,7,196,10,2.2,6.8,91,256,12,45,0,Exynos 9825 ,142,Mali-G76 MP12 ,108.9
+Samsung Galaxy Note10 5G,7.9,1,Samsung,3500,Android,9,5,401,1232,2019.667,1,22,5,4,32,4,7,168,10,2.2,6.3,90.9,256,12,25,0,Exynos 9825 ,142,Mali-G76 MP12 ,108.9
+Samsung Galaxy Note10,7.9,1,Samsung,3500,Android,9,5,401,384.56,2019.667,0,23,5,4,32,4,7,168,10,2.2,6.3,90.9,256,8,25,0,Exynos 9825 ,142,Mali-G76 MP12 ,108.9
+Samsung Galaxy A10s,7.8,0,Samsung,4000,Android,9,4.2,271,149,2019.667,0,10,4,4,18,3,12,168,8,2,6.2,80.7,32,2,0,0,MT6752 ,48,PowerVR GE8320 ,51.3
+Samsung Galaxy A10e,8.4,0,Samsung,3000,Android,9,5,295,78.99,2019.583,0,10,4,4,18,1,14,141,5,2,5.83,81.4,32,2,0,0,Exynos 7884 ,92,Mali-G71 MP2 ,62.9
+Samsung Galaxy Tab S6,5.7,0,Samsung,7040,Android,9,5,287,672,2019.583,0,19,5,4,28,3,7,420,8,2,10.5,82.5,64,4,15,0,Snapdragon 855 ,144,Adreno 640 ,117.7
+Samsung Galaxy Tab A 8.0 (2019),8,0,Samsung,5100,Android,9,4.2,189,145.6,2019.583,0,14,5,4,23,1,12,345,2,,8,71,32,2,0,0,Snapdragon 429 ,65,Adreno 504 ,47.3
+Samsung Galaxy Xcover 4s,9.7,1,Samsung,2800,Android,9,5,294,291.2,2019.5,0,9,4,4,17,1,14,172,5,2.2,5,64.3,32,3,0,0,Exynos 7885 ,98,Mali-G71 MP2 ,62.9
+Samsung Galaxy A2 Core,9.1,0,Samsung,2600,Android,8,4.2,220,134.4,2019.333,0,5,3,2,10,1,14,142,5,2.2,5,68.6,8,1,0,0,Exynos 7870 ,67,Mali-T830 MP1 ,45.9
+Samsung Galaxy View2,17.3,0,Samsung,12000,Android,8,5,127,739.2,2019.333,0,6,2,1,9,1,14,2230,5,,17.3,75.1,64,3,0,0,Exynos 7884 ,92,Mali-G71 MP2 ,62.9
+Samsung Galaxy S10 5G,7.9,1,Samsung,4500,Android,9,5,502,346,2019.167,1,22,4,4,31,2,8,198,,,6.7,89.4,256,8,25,0,Exynos 9825 ,142,Mali-G76 MP12 ,108.9
+Samsung Galaxy S10+,7.8,1,Samsung,4100,Android,9,5,522,279,2019.167,0,22,5,4,31,5,8,175,,,6.4,88.9,128,6,15,0,Exynos 9825 ,142,Mali-G76 MP12 ,108.9
+Samsung Galaxy S10,7.8,1,Samsung,3400,Android,9,5,550,240,2019.167,0,22,5,4,31,4,8,157,10,1.9,6.1,88.3,128,6,15,0,Exynos 9825 ,142,Mali-G76 MP12 ,108.9
+Samsung Galaxy S10e,7.9,1,Samsung,3100,Android,9,5,438,209,2019.167,0,22,5,4,31,3,8,150,10,1.9,5.8,83.3,128,6,15,0,Exynos 9825 ,142,Mali-G76 MP12 ,108.9
+Samsung Galaxy M40,7.9,1,Samsung,3500,Android,9,5,409,220.87,2019.5,0,6,3,4,13,4,11,168,16,2,6.3,84.9,64,4,15,0,Snapdragon 675 ,112,Adreno 612 ,82.1
+Samsung Galaxy M30,8.5,0,Samsung,5000,Android,8,5,403,291.2,2019.167,0,7,4,4,15,4,14,174,16,2,6.4,84.2,32,3,15,0,Exynos 7904 ,96,Mali-G71 MP2 ,62.9
+Samsung Galaxy M20,8.8,1,Samsung,5000,Android,8,5,409,459.99,2019.083,0,9,4,4,17,3,14,186,8,2,6.3,83.6,32,3,15,0,Exynos 7904 ,96,Mali-G71 MP2 ,62.9
+Samsung Galaxy M10,7.7,0,Samsung,3400,Android,8,4.2,270,268.8,2019.083,0,8,3,4,15,3,14,163,5,2,6.2,82.1,16,2,0,0,Exynos 7870 ,67,Mali-T830 MP1 ,45.9
+Samsung Galaxy A80,9.3,1,Samsung,3700,Android,9,5,393,350.35,2019.333,0,17,5,4,26,3,8,220,,,6.7,85.8,128,8,25,0,Snapdragon 730 ,123,Adreno 618 ,99
+Samsung Galaxy A70,7.9,1,Samsung,4500,Android,9,5,393,223.67,2019.25,0,16,5,4,25,4,11,183,32,2,6.7,86,128,6,25,0,Snapdragon 675 ,112,Adreno 612 ,82.1
+Samsung Galaxy A60,7.9,1,Samsung,3500,Android,9,5,409,324.8,2019.333,0,10,4,4,18,4,11,168,16,2,6.3,84.9,64,6,15,0,Snapdragon 675 ,112,Adreno 612 ,82.1
+Samsung Galaxy A50,7.7,1,Samsung,4000,Android,9,5,403,139.26,2019.167,0,9,4,4,17,4,10,166,25,2,6.4,84.9,64,4,15,0,Exynos 9610 ,102,Mali-G72 MP3 ,77
+Samsung Galaxy A40,7.9,1,Samsung,3100,Android,9,5,437,171.26,2019.25,0,9,4,4,17,3,14,140,25,2,5.9,85.5,64,4,15,0,Exynos 7904 ,96,Mali-G71 MP2 ,62.9
+Samsung Galaxy A30,7.7,0,Samsung,4000,Android,9,5,403,164.25,2019.167,0,9,4,4,17,3,14,165,16,2,6.4,84.9,32,3,15,0,Exynos 7904 ,96,Mali-G71 MP2 ,62.9
+Samsung Galaxy A20e,8.4,1,Samsung,3000,Android,9,5,296,111.37,2019.333,0,8,4,4,16,3,14,141,8,2,5.8,80.4,32,3,15,0,Exynos 7884 ,92,Mali-G71 MP2 ,62.9
+Samsung Galaxy A20,7.8,1,Samsung,4000,Android,9,5,268,109,2019.25,0,9,4,4,17,3,14,169,8,2,6.4,85,32,3,15,0,Exynos 7884 ,92,Mali-G71 MP2 ,62.9
+Samsung Galaxy A10,7.9,0,Samsung,3400,Android,9,5,271,119.19,2019.167,0,10,4,4,18,1,14,168,5,2,6.2,81.6,32,2,0,0,Exynos 7884 ,92,Mali-G71 MP2 ,62.9
+Samsung Galaxy Tab S5e,5.5,0,Samsung,7040,Android,9,5,288,459.2,2019.167,0,16,5,4,25,1,10,400,8,2,10.5,81.6,64,4,18,0,Snapdragon 710 ,113,Adreno 615 ,85.6
+Samsung Galaxy Tab A 10.1 (2019),7.5,0,Samsung,6150,Android,9,5,224,246.4,2019.167,0,14,5,4,23,1,14,469,5,2.2,10.1,80.7,16,2,0,0,Exynos 7904 ,96,Mali-G71 MP2 ,62.9
+Samsung Galaxy Tab A 8.0 & S Pen (2019),8.9,0,Samsung,4200,Android,9,5,283,219.99,2019.25,0,15,5,4,24,1,14,325,5,2.2,8,75.2,32,3,0,0,Exynos 7904 ,96,Mali-G71 MP2 ,62.9
+Samsung Galaxy Tab Advanced2,8.5,0,Samsung,7300,Android,8,4.2,224,224,2018.917,0,1,1,1,3,1,14,525,2,,10.1,71.1,32,3,0,0,Exynos 7870 ,67,Mali-T830 MP1 ,45.9
+Samsung Galaxy Tab A 8.0 (2018),8.9,0,Samsung,5000,Android,8,4.2,189,224,2018.75,0,11,4,4,19,1,28,358,2,2.2,8,70.9,32,2,0,0,Snapdragon 425 ,49,Adreno 308 ,38.6
+Samsung Galaxy Tab S4 10.5,7.1,0,Samsung,7300,Android,8,5,287,582.4,2018.667,0,16,5,4,25,1,10,482,8,,10.5,78.6,64,4,18,0,Snapdragon 835 ,117,Adreno 540 ,103.5
+Samsung Galaxy Tab A 10.5,8,0,Samsung,7300,Android,8,4.2,216,280,2018.667,0,14,5,4,23,1,14,529,5,2.2,10.5,76.3,32,3,0,0,Snapdragon 450 ,69,Adreno 506 ,59.7
+Samsung Galaxy A8s,7.4,1,Samsung,3400,Android,9,5,403,448,2019,0,13,4,4,21,4,10,173,24,2,6.4,84.7,128,6,18,0,Snapdragon 710 ,113,Adreno 616 ,90.1
+Samsung Galaxy A6s,8.4,0,Samsung,3300,Android,8,4.2,402,336,2018.833,0,10,4,4,18,3,14,183,12,2,6,77.7,64,6,0,0,Snapdragon 660 ,101,Adreno 512 ,79.1
+Samsung Galaxy A9 (2018),7.8,1,Samsung,3800,Android,8,5,393,246.17,2018.833,0,17,4,4,25,1,14,183,24,2,6.3,80.1,64,6,18,0,Snapdragon 660 ,101,Adreno 512 ,79.1
+Samsung Galaxy A7 (2018),7.5,1,Samsung,3300,Android,8,5,411,347.2,2018.75,0,10,6,4,20,4,14,168,24,2,6,74.4,64,4,0,0,Exynos 7885 ,98,Mali-G71 MP8 ,84.6
+Samsung Galaxy Note9,8.8,1,Samsung,4000,Android,8,5,516,245,2018.667,0,23,5,4,32,2,10,201,,,6.4,83.4,128,6,15,0,Exynos 9810 ,125,Mali-G72 MP18 ,105.9
+Samsung Galaxy J6+,7.9,1,Samsung,3300,Android,8,4.2,274,224,2018.75,0,9,4,4,17,3,28,178,8,1.9,6,73.6,32,3,0,0,Snapdragon 425 ,49,Adreno 308 ,38.6
+Samsung Galaxy J4 Core,7.9,0,Samsung,3300,Android,8,4.2,274,168,2018.917,0,9,5,4,18,1,28,177,5,2.2,6,74.8,16,1,0,0,Snapdragon 425 ,49,Adreno 308 ,38.6
+Samsung Galaxy J4+,7.9,1,Samsung,3300,Android,8,4.2,274,246.4,2018.75,0,10,6,4,20,1,28,178,5,2.2,6,73.6,16,2,0,0,Snapdragon 425 ,49,Adreno 308 ,38.6
+Samsung Galaxy J2 Core,8.9,0,Samsung,2600,Android,8,4.2,220,134.4,2018.667,0,9,5,4,18,1,14,154,5,2.2,5,66.7,8,1,0,0,Exynos 7570 ,53,Mali-T720 MP2 ,42.2
+Samsung Galaxy On6,8.2,0,Samsung,3000,Android,8,4.2,294,112,2018.583,0,16,5,4,25,1,14,154,8,1.9,5.6,75.9,32,3,0,0,Exynos 7870 ,67,Mali-T830 MP1 ,45.9
+Samsung Galaxy J7 (2018),8.6,1,Samsung,3300,Android,8,4.2,267,224,2018.5,0,8,4,4,16,1,14,181,13,1.7,5.5,71.4,16,2,0,0,Exynos 7870 ,67,Mali-T830 MP1 ,45.9
+Samsung Galaxy J3 (2018),8.9,0,Samsung,2600,Android,8,4.2,294,168,2018.5,0,7,5,4,16,1,14,152,5,2.2,5,68.9,16,2,0,0,Exynos 7570 ,53,Mali-T720 MP2 ,42.2
+Samsung Galaxy A8 Star (A9 Star),7.6,1,Samsung,3700,Android,8,5,392,392,2018.5,0,13,4,4,21,3,14,191,24,2,6.3,80.6,64,4,15,0,Snapdragon 660 ,101,Adreno 512 ,79.1
+Samsung Galaxy S Light Luxury,8,1,Samsung,3000,Android,8,5,426,448,2018.417,0,13,4,4,21,3,14,150,16,1.7,5.8,84.2,64,4,0,1,Snapdragon 660 ,101,Adreno 512 ,79.1
+Samsung Galaxy J8,8.2,0,Samsung,3500,Android,8,4.2,274,347.2,2018.417,0,15,5,4,24,3,14,177,16,1.9,6,75.8,32,3,0,0,Snapdragon 450 ,69,Adreno 506 ,59.7
+Samsung Galaxy J6,8.2,0,Samsung,3000,Android,8,4.2,293,201.6,2018.417,0,16,5,4,25,1,14,154,8,1.9,5.6,76.5,32,2,0,0,Exynos 7870 ,67,Mali-T830 MP1 ,45.9
+Samsung Galaxy J4,8.1,0,Samsung,3000,Android,8,4.2,267,156.8,2018.417,0,9,4,4,17,1,14,175,5,2.2,5.5,71.2,16,2,0,0,Exynos 7570 ,53,Mali-T720 MP2 ,42.2
+Samsung Galaxy A6+ (2018),7.9,1,Samsung,3500,Android,8,4.2,411,257.6,2018.417,0,16,5,4,25,3,14,186,24,1.9,6,75.3,32,3,0,0,Snapdragon 450 ,69,Adreno 506 ,59.7
+Samsung Galaxy A6 (2018),7.7,1,Samsung,3000,Android,8,4.2,294,246.4,2018.417,0,8,4,4,16,1,14,162,16,1.9,5.6,75,32,3,0,0,Exynos 7870 ,67,Mali-T830 MP1 ,45.9
+Samsung Galaxy J7 Duo,8.2,0,Samsung,3000,Android,8,4.2,267,268.8,2018.333,0,9,4,4,17,3,14,174,8,1.9,5.5,70.4,32,3,0,0,Exynos 7885 ,98,Mali-G71 MP8 ,84.6
+Samsung Galaxy J7 Prime 2,8,0,Samsung,3300,Android,7,4.1,401,190.4,2018.25,0,8,4,4,16,1,14,170,13,1.9,5.5,73.3,32,3,0,0,Exynos 7870 ,67,Mali-T830 MP1 ,45.9
+Samsung Galaxy S9+,8.5,1,Samsung,3500,Android,8,5,529,470.4,2018.167,0,22,5,4,31,2,10,189,,,6.2,84.2,64,4,15,0,Exynos 9810 ,125,Mali-G72 MP18 ,105.9
+Samsung Galaxy S9,8.5,1,Samsung,3000,Android,8,5,570,414.4,2018.167,0,22,5,4,31,3,10,163,12,1.9,5.8,83.6,64,4,15,0,Exynos 9810 ,125,Mali-G72 MP18 ,105.9
+Samsung Galaxy J2 Pro (2018),8.4,0,Samsung,2600,Android,7,4.2,220,134.4,2018.083,0,9,3,4,16,1,28,153,5,2.2,5,66.3,16,1.5,0,0,Snapdragon 425 ,49,Adreno 308 ,38.6
+Samsung Galaxy A8+ (2018),8.3,1,Samsung,3500,Android,7,5,411,336,2018,0,19,5,4,28,3,14,191,16,1.7,6,75.5,32,4,18,0,Exynos 7885 ,98,Mali-G71 MP8 ,84.6
+Samsung Galaxy A8 (2018),8.4,1,Samsung,3000,Android,7,5,441,280,2018,0,19,5,4,28,3,14,172,16,1.7,5.6,75.6,32,4,18,0,Exynos 7885 ,98,Mali-G71 MP8 ,84.6
+Samsung Galaxy J2 (2017),8.4,0,Samsung,2000,Android,7,4.1,234,134.4,2017.833,0,6,4,4,14,1,28,130,2,2.2,4.7,64.7,8,1,0,0,Exynos 7885 ,98,Mali-T720 MP2 ,42.2
+Samsung Galaxy Tab Active 2,9.9,1,Samsung,4450,Android,7,4.2,189,436.8,2017.833,0,6,4,3,13,1,14,415,5,,8,67.7,16,3,0,0,Exynos 7870 ,67,Mali-T830 MP1 ,45.9
+Samsung Galaxy Tab A 8.0 (2017),8.9,0,Samsung,5000,Android,7,4.2,189,224,2017.75,0,12,5,4,21,1,28,364,5,,8,70.5,16,2,0,0,Snapdragon 425 ,49,Adreno 308 ,38.6
+Samsung Galaxy C7 (2017),7.9,0,Samsung,3000,Android,7,4.2,401,257.6,2017.75,0,10,4,4,18,3,NA,180,16,1.9,5.5,73.3,32,4,0,0,,,,
+Samsung Galaxy Note8,8.6,1,Samsung,3300,Android,7,5,521,560,2017.667,0,22,5,4,31,2,10,195,,,6.3,83.2,64,6,15,0,Exynos 1080 ,151,Mali-G71 MP20 ,96.8
+Samsung Galaxy S8 Active,9.9,1,Samsung,4000,Android,7,5.1,568,850,2017.667,0,17,4,4,25,3,10,208,12,1.7,5.8,75,64,4,15,0,Snapdragon 835 ,117,Adreno 540 ,103.5
+Samsung Galaxy J7 V,8.6,0,Samsung,3300,Android,7,4.2,267,240,2017.25,0,6,4,4,14,1,14,167,5,,5.5,72.3,16,2,0,0,Snapdragon 625 ,71,Adreno 506 ,59.7
+Samsung Galaxy Note FE,7.9,1,Samsung,3200,Android,7,4.2,515,560,2017.583,0,20,5,3,28,3,14,167,12,1.7,5.7,79,64,4,15,0,Exynos 8890 ,106,Mali-T880 MP12 ,81.8
+Samsung Galaxy J7 Max,8.1,0,Samsung,3300,Android,7,4.2,386,190.4,2017.5,0,6,4,4,14,1,16,179,13,1.9,5.7,72.5,32,4,0,0,MT6750 ,48,Mali-T880 MP2 ,60.6
+Samsung Galaxy J7 (2017),8,1,Samsung,3600,Android,7,4.1,401,224,2017.5,0,8,4,4,16,1,14,181,13,1.9,5.5,73.1,16,3,0,0,Exynos 7870 ,67,Mali-T830 MP1 ,45.9
+Samsung Galaxy J7 Pro,8,1,Samsung,3600,Android,7,4.1,401,224,2017.5,0,15,5,4,24,1,14,181,13,1.9,5.5,73.1,16,3,0,0,Exynos 7870 ,67,Mali-T830 MP1 ,45.9
+Samsung Galaxy J5 (2017),8,1,Samsung,3000,Android,7,4.1,282,145.6,2017.5,0,7,5,4,16,1,14,160,13,1.9,5.2,71.5,16,2,0,0,Exynos 7870 ,67,Mali-T830 MP1 ,45.9
+Samsung Galaxy J3 (2017),8.2,1,Samsung,2400,Android,7,4.2,294,123.2,2017.5,0,10,5,4,19,1,14,142,5,2.2,5,68.5,16,2,0,0,Exynos 7570 ,53,Mali-T720 MP2 ,42.2
+Samsung Galaxy Folder2,16.1,0,Samsung,1950,Android,6,4.2,246,224,2017.583,0,9,4,3,16,1,28,165,5,1.9,3.8,56,16,2,0,0,Snapdragon 425 ,49,Adreno 308 ,38.6
+Samsung Z4,10.3,0,Samsung,2050,Tizen,3,4,207,89.6,2017.417,0,1,2,4,7,1,NA,143,5,2.2,4.5,62.7,8,1,,0,,,,
+Samsung Galaxy S8,8,1,Samsung,3000,Android,7,5,570,257.6,2017.25,0,22,5,4,31,3,10,155,12,1.7,5.8,83.6,64,4,15,0,Exynos 1080 ,151,Mali-G71 MP20 ,96.8
+Samsung Galaxy S8+,8.1,1,Samsung,3500,Android,7,5,529,481.6,2017.25,0,10,5,4,19,3,10,173,12,1.7,6.2,84,64,4,15,0,Exynos 1080 ,151,Mali-G71 MP20 ,96.8
+Samsung Galaxy C5 Pro,7,1,Samsung,2600,Android,7,4.2,424,246.4,2017.25,0,9,4,4,17,1,14,145,16,1.9,5.2,71.7,64,4,0,0,Snapdragon 626 ,72,Adreno 506 ,59.7
+Samsung Galaxy Xcover 4,9.7,1,Samsung,2800,Android,7,4.2,294,268.8,2017.25,0,8,4,4,16,1,14,172,5,2.2,5,64.3,16,2,0,0,Exynos 7570 ,53,Mali-T720 MP2 ,42.2
+Samsung Galaxy Tab S3 9.7,6,0,Samsung,6000,Android,7,4.2,264,425.6,2017.167,0,11,4,4,19,1,14,429,5,2.2,9.7,72.7,32,4,18,0,Snapdragon 820 ,107,Adreno 530 ,93.9
+Samsung Galaxy J1 mini prime,10.8,0,Samsung,1500,Android,5,4,233,123.2,2017,0,7,4,4,15,1,NA,126,,,4,59.4,8,1,,0,,,Mali-450 MP4 ,27.4
+Samsung Galaxy J3 Emerge,8.7,0,Samsung,2600,Android,6,4.2,294,235,2017.083,0,7,3,4,14,1,28,147,2,2.2,5,69.8,16,1.5,0,0,Snapdragon 435 ,59,Adreno 530 ,93.9
+Samsung Galaxy C7 Pro,7,1,Samsung,3300,Android,6,4.2,386,336,2017.083,0,9,4,4,17,1,14,172,16,1.9,5.7,74.1,64,4,18,0,Snapdragon 626 ,72,Adreno 506 ,59.7
+Samsung Galaxy A7 (2017),7.9,1,Samsung,3600,Android,6,4.2,386,313.6,2017.083,0,13,5,4,22,1,14,186,16,1.9,5.7,73.6,32,3,18,0,Exynos 7884 ,92,Mali-T830 MP3 ,65.6
+Samsung Galaxy A5 (2017),7.9,1,Samsung,3000,Android,6,4.2,424,212.8,2017.083,0,13,5,4,22,1,14,157,16,1.9,5.2,71.5,32,3,18,0,Exynos 7884 ,92,Mali-T830 MP3 ,65.6
+Samsung Galaxy A3 (2017),7.9,1,Samsung,2350,Android,6,4.2,312,246.4,2017.083,0,8,4,4,16,1,14,138,8,1.9,4.7,67.9,16,2,0,0,Exynos 7870 ,67,Mali-T830 MP1 ,45.9
+Samsung Galaxy Grand Prime Plus,8.9,0,Samsung,2600,Android,6,4.2,220,156.8,2016.917,0,6,4,4,14,1,28,160,5,2.2,5,66,8,1.5,0,0,MT6737T ,46,Mali-T720 MP2 ,42.2
+Samsung Galaxy J2 Prime,8.9,0,Samsung,2600,Android,6,4.2,220,145.6,2016.917,0,6,4,4,14,1,28,160,5,2.2,5,66,8,1.5,0,0,MT6737T ,46,Mali-T720 MP2 ,42.2
+Samsung Galaxy C9 Pro,6.9,1,Samsung,4000,Android,6,4.2,367,425.6,2016.833,0,5,4,4,13,1,28,189,16,1.9,6,75.5,64,6,18,0,Snapdragon 653 ,74,Adreno 510 ,69.9
+Samsung Galaxy C10,,1,Samsung,4000,Android,7,4.2,367,399.53,2018.25,0,1,4,4,9,1,14,,16,1.9,6,,64,6,18,0,Snapdragon 660 ,101,Adreno 512 ,79.1
+Samsung Galaxy A8 (2016),7.2,1,Samsung,3300,Android,6,4.1,386,336,2016.75,0,7,4,4,15,1,14,182,8,1.9,5.7,74.5,32,3,0,0,Exynos 7420 ,81,Mali-T760 MP8 ,72.8
+Samsung Galaxy On8,7.8,1,Samsung,3300,Android,6,4.1,401,224,2016.75,0,5,4,4,13,1,28,169,5,1.9,5.5,72.3,16,3,0,0,Exynos 7580 ,58,Mali-T720 MP2 ,42.2
+Samsung Galaxy On7 (2016),8,0,Samsung,3300,Android,6,4.2,401,224,2016.75,0,1,4,4,9,1,14,167,8,1.9,5.5,73.3,32,3,18,0,Snapdragon 625 ,71,Adreno 506 ,59.7
+Samsung Galaxy J5 Prime,8.1,0,Samsung,2400,Android,6,4.2,294,134.4,2016.75,0,9,4,4,17,1,14,143,5,2.2,5,69.4,16,2,0,0,Exynos 7570 ,53,Mali-T720 MP2 ,42.2
+Samsung Galaxy J7 Prime,8,0,Samsung,3300,Android,6,4.1,401,235.2,2016.75,0,8,4,4,16,1,14,167,8,1.9,5.5,73.3,16,3,0,0,Exynos 7870 ,67,Mali-T830 MP1 ,45.9
+Samsung Z2,10.8,0,Samsung,1500,Tizen,2,4,233,89.6,2016.667,0,5,2,2,9,1,NA,127,,2.4,4,59.5,8,1,,0,,,Mali-450 MP4 ,27.4
+Samsung Galaxy Note7 (USA),7.9,1,Samsung,3500,Android,6,4.2,515,851.2,2016.667,0,21,5,4,30,3,14,169,12,1.7,5.7,79,64,4,15,0,Snapdragon 820 ,107,Adreno 530 ,93.9
+Samsung Galaxy Note7,7.9,1,Samsung,3500,Android,6,4.2,518,952,2016.667,0,1,4,4,9,3,14,169,12,1.7,5.7,78,64,4,15,0,Exynos 8890 ,106,Mali-T880 MP12 ,81.8
+Samsung Galaxy On7 Pro,8,0,Samsung,3000,Android,6,4.1,267,168,2016.583,0,1,4,4,9,1,28,172,5,2.2,5.5,70.3,16,2,0,0,Snapdragon 410 ,45,Adreno 306 ,31.4
+Samsung Galaxy On5 Pro,8.5,0,Samsung,2600,Android,6,4.1,294,134.4,2016.583,0,6,4,4,14,1,28,149,5,2.2,5,67.2,16,2,0,0,Exynos 7885 ,98,Mali-T720 MP2 ,42.2
+Samsung Galaxy Tab J,8.7,0,Samsung,4000,Android,5,4,216,178.52,2016.583,0,1,4,4,9,1,NA,289,2,2.2,7,69.9,8,1.5,0,0,,,Mali-450 MP4 ,27.4
+Samsung Galaxy J Max,8.7,0,Samsung,4000,Android,5,4,216,168,2016.583,0,7,4,4,15,1,NA,289,2,2.2,7,69.9,8,1.5,0,0,,,Mali-450 MP4 ,27.4
+Samsung Galaxy J2 Pro (2016),8,0,Samsung,2600,Android,6,4.1,294,156.8,2016.583,0,6,4,4,14,1,NA,138,5,2.2,5,68.1,16,2,0,0,,,Mali-450 MP4 ,27.4
+Samsung Galaxy J2 (2016),8,0,Samsung,2600,Android,6,4.1,294,134.4,2016.583,0,6,4,4,14,1,NA,138,5,2.2,5,68.1,8,1.5,0,0,,,Mali-450 MP4 ,27.4
+Samsung Z3 Corporate,7.9,0,Samsung,2600,Tizen,2,4.1,294,224,2016.5,0,1,4,4,9,1,28,,5,2.2,5,69.7,8,1,,0,Snapdragon 410 ,45,Adreno 306 ,31.4
+Samsung Galaxy Xcover 3 G389F,10,1,Samsung,2200,Android,6,4.1,207,224,2016.333,0,4,4,4,12,1,28,154,2,,4.5,61.9,8,1.5,0,0,Exynos 7885 ,98,Mali-T720 MP2 ,42.2
+Samsung Galaxy S7 active,9.9,1,Samsung,4000,Android,6,4.2,576,403.2,2016.5,0,15,3,4,22,1,14,184,5,1.7,5.1,64.3,32,4,15,0,Snapdragon 820 ,107,Adreno 530 ,93.9
+Samsung Galaxy J3 Pro,8,1,Samsung,2600,Android,5,4.1,294,145.6,2016.5,0,4,4,4,12,1,28,139,5,2.2,5,68,16,2,0,0,Snapdragon 410 ,45,Adreno 306 ,31.4
+Samsung Galaxy C7,6.8,1,Samsung,3300,Android,6,4.2,386,280,2016.417,0,8,4,4,16,1,14,169,8,1.9,5.7,74.1,32,4,18,0,Snapdragon 625 ,71,Adreno 506 ,59.7
+Samsung Galaxy C5,6.7,1,Samsung,2600,Android,6,4.2,424,246.4,2016.417,0,8,4,4,16,1,28,143,8,1.9,5.2,71,32,4,18,0,Snapdragon 678 ,113,Adreno 405 ,50.7
+Samsung Galaxy A9 Pro (2016),7.9,1,Samsung,5000,Android,6,4.2,367,336,2016.25,0,6,4,4,14,1,28,210,8,1.9,6,75.9,32,4,18,0,Snapdragon 652 ,69,Adreno 510 ,69.9
+Samsung Galaxy J7 (2016),7.8,1,Samsung,3300,Android,6,4.1,267,257.6,2016.25,0,7,4,4,15,1,28,170,5,1.9,5.5,72.3,16,2,0,0,Snapdragon 870 ,151,Adreno 530 ,93.9
+Samsung Galaxy J5 (2016),8.1,1,Samsung,3100,Android,6,4.1,282,212.8,2016.25,0,6,4,4,14,1,28,159,5,1.9,5.2,70.7,16,2,0,0,Snapdragon 410 ,45,Adreno 306 ,31.4
+Samsung Galaxy Tab A 10.1 (2016),8.2,0,Samsung,7300,Android,6,4.2,224,246.4,2016.417,0,9,4,4,17,1,14,525,2,2.2,10.1,74.9,16,2,0,0,Exynos 7870 ,67,Mali-T830 MP1 ,45.9
+Samsung Galaxy Tab A 7.0 (2016),8.7,0,Samsung,4000,Android,5,4,216,145.6,2016.25,0,6,4,4,14,1,28,283,2,2.2,7,69.9,8,1.5,0,0,Snapdragon 410 ,45,Adreno 640 ,117.7
+Samsung Galaxy S7,7.9,1,Samsung,3000,Android,6,4.2,577,212.8,2016.167,0,21,5,4,30,1,14,152,5,1.7,5.1,72.1,32,4,15,0,Exynos 8890 ,106,Mali-T880 MP12 ,81.8
+Samsung Galaxy S7 edge,7.7,1,Samsung,3600,Android,6,4.2,534,369.6,2016.167,0,21,5,4,30,1,14,157,5,1.7,5.5,76.1,32,4,15,0,Snapdragon 888 ,158,Adreno 530 ,93.9
+Motorola Moto G51,,0,Motorola,5000,Android,11,5.2,395,224,2021.917,1,1,4,4,10,4,8,,13,,6.8,,128,8,,0,Snapdragon 480 ,122,Adreno 619 ,103.4
+Motorola Moto E7,8.9,0,Motorola,4000,Android,10,5,269,123.2,2020.917,0,9,4,4,17,3,12,180,5,2.2,6.5,82.3,32,2,,0,MT6752 ,48,PowerVR GE8320 ,51.3
+Motorola one 5G UW ace,9.9,0,Motorola,5000,Android,11,5.1,393,280,2021.583,7,13,5,4,29,4,8,213,16,2.2,6.7,85.9,64,4,20,0,Snapdragon 750G ,132,Adreno 619 ,103.4
+Motorola Defy (2021),10.9,1,Motorola,5000,Android,10,5,270,515,2021.5,0,14,5,4,23,4,11,232,8,2.2,6.5,76.8,64,4,20,0,Snapdragon 662 ,101,Adreno 610 ,80.2
+Motorola Moto G Stylus 5G,9.4,0,Motorola,5000,Android,11,5,387,229.25,2021.5,9,25,5,4,43,1,8,217,16,2,6.8,85,128,4,,0,Snapdragon 480 ,122,Adreno 619 ,103.4
+Motorola Moto G20,9.1,1,Motorola,5000,Android,11,5,270,159.5,2021.333,0,14,4,4,22,1,NA,200,13,2.2,6.5,81.6,64,4,,0,,,Mali G77 MP5 ,107.3
+Motorola Moto G40 Fusion,9.7,1,Motorola,6000,Android,11,5,395,201.6,2021.333,0,15,5,4,24,4,8,225,16,2.2,6.8,85.3,64,4,20,0,Snapdragon 732G ,125,Adreno 618 ,99
+Motorola Moto G100,9.7,1,Motorola,5000,Android,11,5.1,409,519.99,2021.25,11,22,5,4,42,2,7,207,,,6.7,84.1,128,8,20,0,Snapdragon 870 ,151,Adreno 650 ,122.3
+Motorola Moto G50,9,1,Motorola,5000,Android,11,5,269,219.99,2021.25,12,22,5,4,43,4,8,192,13,2.2,6.5,83.2,64,4,15,0,Snapdragon 480 ,122,Adreno 619 ,103.4
+Motorola Moto G10 Power,9.9,0,Motorola,6000,Android,11,5,270,181.87,2021.25,0,11,5,4,20,1,11,220,8,2.2,6.5,81.6,64,4,20,0,Snapdragon 460 ,99,Adreno 610 ,80.2
+Motorola Moto E7i Power,9.2,0,Motorola,5000,Android,10,4.2,270,109.99,2021.167,0,1,5,4,10,3,NA,200,5,2.2,6.5,,32,2,,0,,,PowerVR GE8320 ,51.3
+Motorola Moto E7 Power,9.2,0,Motorola,5000,Android,10,5,269,147.5635,2021.167,0,9,5,4,18,3,12,200,5,2.2,6.5,,32,2,,0,MT6752 ,48,PowerVR GE8320 ,51.3
+Motorola Moto G30,9.1,1,Motorola,5000,Android,11,5,269,209.72,2021.167,0,14,5,4,23,1,11,200,13,2.2,6.5,82.2,64,4,15,0,Snapdragon 662 ,101,Adreno 610 ,80.2
+Motorola Moto G10,9.2,1,Motorola,5000,Android,11,5,269,169.65,2021.167,0,14,4,4,22,1,11,200,8,2.2,6.5,82.2,64,4,,0,Snapdragon 460 ,99,Adreno 610 ,80.2
+Motorola Moto E6i,8.5,0,Motorola,3000,Android,10,4.2,282,190.4,2021.167,0,10,5,4,19,3,NA,160,5,2.2,6.1,80.4,32,2,,0,,,PowerVR GE8320 ,51.3
+Motorola Edge S,9.7,1,Motorola,5000,Android,11,5.1,409,280,2021.083,11,22,5,4,42,2,7,215,,,6.7,84.1,128,6,20,0,Snapdragon 870 ,151,Adreno 650 ,122.3
+Motorola One 5G Ace,9.9,1,Motorola,5000,Android,10,5.1,393,166.99,2021.083,6,24,5,4,39,4,8,212,16,2.2,6.7,85.7,64,4,15,0,Snapdragon 750G ,132,Adreno 619 ,103.4
+Motorola Moto G Stylus (2021),9,0,Motorola,4000,Android,10,5,386,229.99,2021.083,0,20,5,4,29,1,11,213,16,2,6.8,84.8,128,4,,0,Snapdragon 678 ,113,Adreno 612 ,82.1
+Motorola Moto G Power (2021),9.5,0,Motorola,5000,Android,10,5,266,90,2021.083,0,19,5,4,28,4,11,206,8,2,6.6,83.8,32,3,15,0,Snapdragon 662 ,101,Adreno 610 ,80.2
+Motorola Moto G Play (2021),9.4,0,Motorola,5000,Android,10,5,270,158,2021.083,0,16,5,4,25,3,11,204,5,2.2,6.5,80.6,32,3,,0,Snapdragon 460 ,99,Adreno 610 ,80.2
+Motorola Moto G9 Power,9.7,1,Motorola,6000,Android,10,5,263,179.99,2020.917,0,16,5,4,25,4,11,221,16,2.2,6.8,83.1,64,4,20,0,Snapdragon 662 ,101,Adreno 610 ,80.2
+Motorola Razr 5G,7.9,1,Motorola,2800,Android,10,5.1,373,799.99,2020.75,7,27,5,3,42,1,7,192,20,2.2,6.2,70.7,256,8,15,0,Snapdragon 765G ,134,Adreno 620 ,105.2
+Motorola Moto G9 Plus,9.7,1,Motorola,5000,Android,10,5,386,219.99,2020.75,0,11,5,4,20,1,8,223,16,2,6.8,,64,4,30,0,Snapdragon 730G ,124,Adreno 618 ,99
+Motorola Moto E7 Plus,9.2,0,Motorola,5000,Android,10,5,270,189.99,2020.75,0,10,5,4,19,3,11,200,8,2.2,6.5,81.6,64,4,,0,Snapdragon 460 ,99,Adreno 610 ,80.2
+Motorola One 5G UW,8.9,1,Motorola,5000,Android,10,5.1,409,550,2020.833,5,6,4,4,19,2,7,209,,,6.7,84.5,128,4,15,0,Snapdragon 765G ,134,Adreno 620 ,105.2
+Motorola One 5G,9,1,Motorola,5000,Android,10,5.1,409,470.4,2020.75,6,24,5,4,39,2,7,207,,,6.7,84.3,128,4,15,0,Snapdragon 765G ,134,Adreno 620 ,105.2
+Motorola Moto G9 Play,9.2,1,Motorola,5000,Android,10,5,269,159.99,2020.667,0,14,4,4,22,4,11,200,8,2.2,6.5,82.2,64,4,20,0,Snapdragon 662 ,101,Adreno 610 ,80.2
+Motorola Moto G9 (India),9.2,1,Motorola,5000,Android,10,5,269,145.6,2020.667,0,14,4,4,22,4,11,200,8,2.2,6.5,82.2,64,4,20,0,Snapdragon 662 ,101,Adreno 610 ,80.2
+Motorola Moto G 5G Plus,9.7,1,Motorola,5000,Android,10,5.1,409,285,2020.583,9,20,5,4,38,2,7,207,,,6.7,84.2,64,4,20,0,Snapdragon 765G ,134,Adreno 620 ,105.2
+Motorola Moto G51,,0,Motorola,5000,Android,11,5.2,395,224,2021.917,1,1,4,4,10,4,8,,13,,6.8,,128,8,,0,Snapdragon 480 ,122,Adreno 619 ,103.4
+Motorola Moto E7,8.9,0,Motorola,4000,Android,10,5,269,123.2,2020.917,0,9,4,4,17,3,12,180,5,2.2,6.5,82.3,32,2,,0,MT6752 ,48,PowerVR GE8320 ,51.3
+Motorola Moto G 5G,9.9,1,Motorola,5000,Android,10,5.1,393,239.99,2020.917,10,18,5,4,37,4,8,212,16,2.2,6.7,85.7,64,4,20,0,Snapdragon 750G ,132,Adreno 619 ,103.4
+Motorola Moto E30,9.1,0,Motorola,5000,Android,11,5,270,112,2021.917,0,1,4,4,9,4,NA,198,8,2,6.5,81.7,32,2,,0,,,Mali G77 MP5 ,107.3
+Motorola One Fusion,9.4,0,Motorola,5000,Android,10,5,270,149.99,2020.583,0,10,5,4,19,1,10,202,8,2,6.5,81.5,64,4,,0,Snapdragon 710 ,113,Adreno 616 ,90.1
+Motorola One Fusion+,9.6,0,Motorola,5000,Android,10,5,396,336,2020.5,0,12,5,4,21,1,8,210,,2,6.5,83.3,128,4,15,0,Snapdragon 780G ,147,Adreno 618 ,99
+Motorola One Vision Plus,9.1,1,Motorola,4000,Android,9,5,400,190.4,2020.583,0,15,5,4,24,4,11,188,25,2,6.3,82.5,128,4,15,0,Snapdragon 665 ,101,Adreno 610 ,80.2
+Motorola Moto G Fast,9.1,0,Motorola,4000,Android,10,5,268,139,2020.5,0,19,5,4,28,4,11,189,8,2,6.4,82,32,3,,0,Snapdragon 665 ,101,Adreno 610 ,80.2
+Motorola Moto E (2020),8.7,0,Motorola,3550,Android,10,4.2,271,75,2020.5,0,16,5,4,25,3,14,185,5,2,6.2,78.4,32,2,,0,Snapdragon 632 ,92,Adreno 506 ,59.7
+Motorola Moto G Pro,9.2,1,Motorola,4000,Android,10,5,399,212.99,2020.417,0,24,5,4,33,4,11,192,16,2,6.4,83.7,128,4,15,0,Snapdragon 665 ,101,Adreno 610 ,80.2
+Motorola Edge+,9.6,1,Motorola,5000,Android,10,5.1,385,789,2020.333,6,25,5,4,40,1,7,203,25,2,6.7,95.8,256,12,18,0,Snapdragon 865 ,149,Adreno 650 ,122.3
+Motorola Edge,9.3,1,Motorola,4500,Android,10,5.1,385,399.99,2020.333,12,21,5,4,42,1,7,188,25,2,6.7,95.9,128,4,18,0,Snapdragon 765G ,134,Adreno 620 ,105.2
+Motorola Moto G8 Power Lite,9.2,0,Motorola,5000,Android,9,4.2,269,298,2020.333,0,1,4,4,9,4,28,200,8,2,6.5,82.2,64,4,,0,MT6735 ,42,PowerVR GE8320 ,51.3
+Motorola Moto E6s (2020),8.5,0,Motorola,3000,Android,9,4.2,282,358.5,2020.25,0,9,4,4,17,3,12,160,5,2.2,6.1,80.4,32,2,,0,MT6752 ,48,PowerVR GE8320 ,51.3
+Motorola Moto G8,9,0,Motorola,4000,Android,10,5,268,257.6,2020.25,0,11,5,4,20,4,11,188,8,2,6.4,82.2,64,4,,0,Snapdragon 665 ,101,Adreno 610 ,80.2
+Motorola Moto G Stylus,9.2,0,Motorola,4000,Android,10,5,399,172.65,2020.167,0,24,5,4,33,4,11,192,16,2,6.4,83.7,128,4,,0,Snapdragon 665 ,101,Adreno 610 ,80.2
+Motorola Moto G Power,9.6,0,Motorola,5000,Android,10,5,399,179.99,2020.167,0,24,5,4,33,4,11,199,16,2,6.4,83,64,4,,0,Snapdragon 665 ,101,Adreno 610 ,80.2
+Motorola Moto G8 Power,9.6,0,Motorola,5000,Android,10,5,399,167.2,2020.167,0,11,5,4,20,1,11,197,16,2,6.4,85.1,32,4,18,0,Snapdragon 665 ,101,Adreno 610 ,80.2
+Motorola One Hyper,8.9,1,Motorola,4000,Android,10,5,396,349.99,2020,0,11,4,4,19,3,11,210,,2,6.5,83.7,128,4,45,0,Snapdragon 675 ,112,Adreno 612 ,82.1
+Motorola Razr 2019,6.9,1,Motorola,2510,Android,9,5,373,799.99,2019.917,0,12,5,3,20,3,10,205,5,2,6.2,70.2,128,6,15,0,Snapdragon 710 ,113,Adreno 616 ,90.1
+Motorola Moto G8 Play,9,0,Motorola,4000,Android,9,4.2,271,189.99,2019.833,0,9,5,4,18,4,28,183,8,,6.2,80.7,32,2,,0,MT6737 ,45,Mali-G72 MP3 ,77
+Motorola Moto E6 Play,8.3,0,Motorola,3000,Android,9,4.2,295,179.2,2019.833,0,9,4,4,17,1,28,140,5,2.2,5.5,74.1,32,2,,0,MT6739 ,50,PowerVR GE8100 ,32.4
+Motorola Moto G8 Plus,9.1,1,Motorola,4000,Android,9,5,400,179.99,2019.833,0,15,5,4,24,4,11,188,25,2,6.3,82.5,64,4,15,0,Snapdragon 665 ,101,Adreno 610 ,80.2
+Motorola One Macro,9,0,Motorola,4000,Android,9,4.2,270,268.8,2019.833,0,12,5,4,21,4,28,186,8,2.2,6.2,81.3,64,4,,0,MT6750 ,48,Mali-G72 MP3 ,77
+Motorola Moto E6 Plus,8.6,0,Motorola,3000,Android,9,4.2,282,224,2019.75,0,9,4,4,17,3,12,149,8,2,6.1,80.3,32,2,,0,MT6752 ,48,PowerVR GE8320 ,51.3
+Motorola One Zoom,8.8,1,Motorola,4000,Android,9,5,403,449.99,2019.75,0,15,5,4,24,1,11,190,25,2,6.3,,128,4,15,0,Snapdragon 675 ,112,Adreno 612 ,82.1
+Motorola One Action,9.2,1,Motorola,3500,Android,9,5,432,189,2019.667,0,9,4,4,17,4,10,176,12,2,6.3,82.5,128,4,,0,Exynos 9610 ,102,Mali-G72 MP3 ,77
+Motorola Moto E6,8.6,0,Motorola,3000,Android,9,4.2,296,145.6,2019.583,0,10,5,4,19,1,28,159,5,2,5.5,70.7,16,2,,0,Snapdragon 435 ,59,Adreno 505 ,52.8
+Motorola Moto Z4,7.4,1,Motorola,3600,Android,9,5,403,560,2019.417,0,21,5,4,30,1,11,165,25,2,6.4,84.8,128,4,15,0,Snapdragon 675 ,112,Adreno 612 ,82.1
+Motorola One Vision,8.7,1,Motorola,3500,Android,9,5,432,659,2019.417,0,11,5,4,20,3,10,180,25,2,6.3,82.5,128,4,15,0,Exynos 9610 ,102,Mali-G72 MP3 ,77
+Motorola Moto G7 Plus,8.3,1,Motorola,3000,Android,9,5,405,119.99,2019.167,0,15,5,4,24,3,14,176,12,,6.2,81.4,64,4,27,0,Snapdragon 636 ,97,Adreno 509 ,69.7
+Motorola Moto G7,8,1,Motorola,3000,Android,9,4.2,405,212.8,2019.167,0,15,4,4,23,3,14,172,8,"4""",6.2,81.4,64,4,15,0,Snapdragon 632 ,92,Adreno 506 ,59.7
+Motorola Moto G7 Power,9.3,1,Motorola,5000,Android,9,4.2,279,224,2019.167,0,13,4,4,21,1,14,193,8,2.2,6.2,77.6,32,3,15,0,Snapdragon 632 ,92,Adreno 506 ,59.7
+Motorola Moto G7 Play,8,0,Motorola,3000,Android,9,4.2,294,89,2019.167,0,12,5,4,21,1,14,149,8,2.2,5.7,77.3,32,2,10,0,Snapdragon 632 ,92,Adreno 506 ,59.7
+Motorola One (P30 Play),8,1,Motorola,3000,Android,8,5,287,336,2018.667,0,11,4,4,19,3,14,162,8,2.2,5.9,79.2,32,3,15,0,Snapdragon 625 ,71,Adreno 506 ,59.7
+Motorola One Power (P30 Note),8.4,0,Motorola,5000,Android,8,5,403,280,2018.667,0,10,4,4,18,3,14,205,12,2,6.2,81.3,32,3,15,0,Snapdragon 636 ,97,Adreno 509 ,69.7
+Motorola Moto Z3,6.8,1,Motorola,3000,Android,8,5,402,280,2018.667,0,16,5,4,25,3,10,156,8,2,6,,64,4,15,0,Snapdragon 835 ,117,Adreno 540 ,103.5
+Motorola Moto Z3 Play,6.8,1,Motorola,3000,Android,8,5,402,448,2018.5,0,24,5,4,33,3,14,156,8,2,6,,32,4,15,0,Snapdragon 636 ,97,Adreno 509 ,69.7
+Motorola Moto E5 Cruise,9,0,Motorola,2800,Android,8,4.2,282,40,2018.5,0,10,5,4,19,1,28,150,5,,5.2,66.7,16,2,,0,Snapdragon 427 ,50,Adreno 308 ,38.6
+Motorola Moto E5 Play Go,7.6,0,Motorola,2800,Android,8,4.2,206,78.4,2018.583,0,4,5,4,13,1,28,150,5,,5.2,,16,1,,0,Snapdragon 425 ,49,Adreno 308 ,38.6
+Motorola Moto E5 Play,9,0,Motorola,2800,Android,8,4.2,282,89.6,2018.333,0,19,5,4,28,1,28,150,5,,5.2,66.7,16,2,,0,Snapdragon 480 ,122,Adreno 308 ,38.6
+Motorola Moto E5 Plus,9.4,0,Motorola,5000,Android,8,4.2,268,190.4,2018.333,0,8,4,4,16,1,28,196,5,2,6,76.7,16,2,15,0,Snapdragon 425 ,49,Adreno 308 ,38.6
+Motorola Moto E5,9,1,Motorola,4000,Android,8,4.2,282,168,2018.333,0,8,4,4,16,1,28,174,5,2.2,5.7,75.2,16,2,,0,Snapdragon 425 ,49,Adreno 308 ,38.6
+Motorola P30,7.7,0,Motorola,3000,Android,8,5,402,313.6,2018.667,0,11,4,4,19,3,14,170,12,1.9,6.2,82,64,6,18,0,Snapdragon 636 ,97,Adreno 509 ,69.7
+Motorola Moto G6 Play,9,1,Motorola,4000,Android,8,4.2,282,168,2018.333,0,7,4,4,15,1,14,175,5,,5.7,75.2,16,2,15,0,Snapdragon 820 ,107,Adreno 530 ,93.9
+Motorola Moto G6 Plus,8,1,Motorola,3200,Android,8,5,409,212.8,2018.333,0,7,4,4,15,3,14,167,8,2.2,5.9,74.4,32,3,15,0,Snapdragon 630 ,88,Adreno 508 ,69.1
+Motorola Moto G6,8.3,1,Motorola,3000,Android,8,4.2,424,224,2018.333,0,7,4,4,15,3,14,167,8,,5.7,75.4,32,3,15,0,Snapdragon 450 ,69,Adreno 506 ,59.7
+Motorola Moto X5,,1,Motorola,3300,Android,8,5,409,354,2019,0,11,5,4,20,2,NA,,,,5.9,,32,4,15,0,,,,
+Motorola Moto X4,8,1,Motorola,3000,Android,7,4.2,424,224,2017.667,0,11,5,4,20,3,14,163,16,2,5.2,68.4,32,3,15,0,Snapdragon 630 ,88,Adreno 508 ,69.1
+Motorola Moto G5S Plus,8,1,Motorola,3000,Android,7,4.2,401,179.2,2017.667,0,14,4,4,22,1,14,168,8,2,5.5,71.3,32,3,15,0,Snapdragon 625 ,71,Adreno 506 ,59.7
+Motorola Moto G5S,9.5,1,Motorola,3000,Android,7,4.2,424,168,2017.667,0,10,4,4,18,1,28,157,5,2,5.2,67.6,32,3,15,0,Snapdragon 430 ,57,Adreno 505 ,52.8
+Motorola Moto Z2 Force,6.1,1,Motorola,2730,Android,7,4.2,534,358.4,2017.583,0,20,6,4,30,1,10,143,5,2.2,5.5,70.4,64,4,15,0,Snapdragon 835 ,117,Adreno 540 ,103.5
+Motorola Moto E4 Plus,9.6,1,Motorola,5000,Android,7,4.2,267,123.2,2017.5,0,8,4,4,16,1,28,198,5,2.2,5.5,69.4,16,2,15,0,MT6738 ,49,Mali-T720 MP2 ,42.2
+Motorola Moto E4 Plus (USA),9.6,0,Motorola,5000,Android,7,4.1,267,180,2017.5,0,14,5,4,23,1,28,181,5,2.2,5.5,69.4,16,2,15,0,Snapdragon 427 ,50,Adreno 308 ,38.6
+Motorola Moto E4,9.3,1,Motorola,2800,Android,7,4.2,294,168,2017.5,0,8,4,4,16,1,28,151,5,2.2,5,65.9,16,2,,0,MT6738 ,49,Mali-T720 MP2 ,42.2
+Motorola Moto E4 (USA),9.3,0,Motorola,2800,Android,7,4.1,294,130,2017.5,0,14,5,4,23,1,28,150,5,2.2,5,66.2,16,2,,0,Snapdragon 480 ,122,Adreno 308 ,38.6
+Motorola Moto Z2 Play,6,1,Motorola,3000,Android,7,4.2,401,257.6,2017.5,0,11,4,4,19,1,14,145,5,2.2,5.5,70.1,32,3,15,0,Snapdragon 626 ,72,Adreno 506 ,59.7
+Motorola Moto C Plus,10,0,Motorola,4000,Android,7,4.2,294,134.4,2017.417,0,8,4,4,16,1,28,162,2,2.8,5,66.2,16,1,,0,MT6738 ,49,Mali-T720 MP2 ,42.2
+Motorola Moto C,9,0,Motorola,2350,Android,7,4.2,196,112,2017.417,0,8,4,4,16,1,28,154,2,,5,64.3,8,1,,0,MT6738 ,49,Mali-T720 MP2 ,42.2
+Motorola Moto G5 Plus,7.7,1,Motorola,3000,Android,7,4.2,424,268.8,2017.167,0,15,5,4,24,1,14,155,5,2.2,5.2,67.1,32,2,15,0,Snapdragon 625 ,71,Adreno 506 ,59.7
+Motorola Moto G5,9.5,0,Motorola,2800,Android,7,4.2,441,168,2017.167,0,10,5,4,19,1,28,145,5,2.2,5,65.4,16,2,,0,Snapdragon 430 ,57,Adreno 505 ,52.8
+Motorola Moto M,7.9,0,Motorola,3050,Android,6,4.1,401,212.8,2016.917,0,9,4,4,17,1,28,163,8,2,5.5,73.1,32,3,,0,MT6735 ,42,Mali-T860 MP2 ,52.4
+Motorola Moto E3 Power,9.6,0,Motorola,3500,Android,6,4,294,145.6,2016.75,0,9,4,4,17,1,28,153,5,,5,66.9,16,2,,0,MT6738 ,49,Mali-T720 MP2 ,42.2
+Motorola Moto Z Play,7,1,Motorola,3510,Android,6,4,403,246.4,2016.667,0,14,5,4,23,1,14,165,5,2.2,5.5,69.1,32,3,15,0,Snapdragon 625 ,71,Adreno 506 ,59.7
+Motorola Moto E3,8.5,0,Motorola,2800,Android,6,4,294,112,2016.583,0,9,4,4,17,1,28,140,5,,5,66.9,8,1,,0,MT6738 ,49,Mali-T720 MP2 ,42.2
+Motorola Moto Z Force,7,1,Motorola,3500,Android,6,4.1,535,302.4,2016.5,0,6,4,4,14,1,14,163,5,2.2,5.5,70.3,32,4,15,0,Snapdragon 820 ,107,Adreno 530 ,93.9
+Motorola Moto Z,5.2,1,Motorola,2600,Android,6,4.1,535,246.4,2016.5,0,7,4,4,15,1,14,136,5,2.2,5.5,72,32,4,15,0,Snapdragon 820 ,107,Adreno 530 ,93.9
+Motorola Moto G4 Plus,9.8,0,Motorola,3000,Android,6,4.1,401,179.2,2016.417,0,9,5,4,18,1,28,155,5,2.2,5.5,71.2,16,2,15,0,Snapdragon 678 ,113,Adreno 405 ,50.7
+Motorola Moto G4,9.8,0,Motorola,3000,Android,6,4.1,401,145.6,2016.417,0,9,4,4,17,1,28,155,5,2.2,5.5,71.2,16,2,15,0,Snapdragon 678 ,113,Adreno 405 ,50.7
+Motorola Moto G4 Play,9.9,1,Motorola,2800,Android,6,4.1,294,145.6,2016.417,0,7,4,4,15,1,28,137,5,2.2,5,66.3,8,1,,0,Snapdragon 410 ,45,Adreno 306 ,31.4
+Motorola Moto G Turbo,11.6,0,Motorola,2470,Android,5,4,294,313.6,2015.917,0,3,5,4,12,1,28,155,5,2.2,5,67,16,2,15,0,Snapdragon 615 ,51,Adreno 405 ,50.7
+Huawei Enjoy 20e,9,0,Huawei,5000,HarmonyOS,2,5,278,145.6,2021.833,0,9,3,3,15,3,28,185,8,2,6.3,81.3,64,4,,0,MT6735 ,42,PowerVR GE8320 ,51.3
+Huawei nova 9 Pro,8,1,Huawei,4000,HarmonyOS,2,5.2,439,515.2,2021.75,0,14,6,4,24,2,6,186,,,6.7,,128,8,100,0,Snapdragon 780G ,147,Adreno 640 ,117.7
+Huawei nova 9,7.8,1,Huawei,4300,HarmonyOS,2,5.2,392,492.1,2021.75,0,20,6,4,30,1,6,175,32,2,6.5,,128,8,66,0,Snapdragon 780G ,147,Adreno 640 ,117.7
+Huawei nova 8,7.6,1,Huawei,3800,Android,11,5,392,470.4,2021.667,0,19,7,4,30,1,7,169,32,2,6.5,,128,8,66,0,Kirin 980 ,137,Mali-G57 MC5 ,106.2
+Huawei P50 Pro,8.5,1,Huawei,4360,HarmonyOS,2,5.2,450,1599,2021.583,0,21,6,4,31,1,5,195,13,2.4,6.6,91.2,128,8,66,0,Kirin 990 5G ,144,Mali-G78 MP24 ,124.1
+Huawei P50,7.9,1,Huawei,4100,HarmonyOS,2,5.2,458,672,2021.583,0,21,6,4,31,4,5,181,13,2.4,6.5,88,128,8,66,0,Snapdragon 888 ,158,Adreno 660 ,131.3
+Huawei nova 8 SE Youth,8.4,0,Huawei,4000,Android,10,5.1,399,280,2021.583,0,1,3,4,8,4,14,179,16,2,6.6,89.3,128,8,40,0,Kirin 710 ,98,Mali-G51 MP4 ,66.6
+Huawei nova 8i,8.6,0,Huawei,4300,Android,10,5,391,390.88,2021.583,0,10,3,4,17,1,11,190,16,2,6.6,,128,6,66,0,Snapdragon 662 ,101,Adreno 610 ,80.2
+Huawei Mate 40 Pro 4G,9.1,1,Huawei,4400,HarmonyOS,2,5.2,456,896,2021.5,0,20,6,4,30,5,5,212,,,6.7,,128,8,66,0,Kirin 9000 ,152,Mali-G78 MP24 ,124.1
+Huawei Mate 40E 4G,8.8,1,Huawei,4200,HarmonyOS,2,5.2,402,616,2021.5,0,20,6,4,30,4,7,188,13,2.4,6.5,89.3,128,8,40,0,Kirin 990E 5G ,143,Mali-G76 MP14 ,109.6
+Huawei Mate X2 4G,8.2,1,Huawei,4500,HarmonyOS,2,5.2,414,2564.8,2021.5,0,20,6,4,30,1,5,295,16,2.2,8,86.9,256,8,55,0,Kirin 9000 ,152,Mali-G78 MP24 ,124.1
+Huawei nova 8 Pro 4G,7.9,1,Huawei,4000,Android,10,5.2,439,641.66,2021.333,0,16,6,4,26,2,7,184,,,6.7,,128,8,66,0,Kirin 985 5G ,139,Mali-G77 MP8 ,110.1
+Huawei Mate 40E,8.8,1,Huawei,4200,Android,10,5.2,402,672,2021.25,9,20,6,4,39,4,7,188,13,2.4,6.5,89.3,128,8,40,0,Kirin 990E 5G ,143,Mali-G76 MP14 ,109.6
+Huawei P40 4G,8.5,1,Huawei,3800,Android,10,5.1,422,560,2021.167,0,1,5,4,10,4,7,175,32,2,6.1,86.3,128,4,22.5,0,Kirin 990 5G ,144,Mali-G76 MP16 ,110.7
+Huawei Mate X2,8.2,1,Huawei,4500,Android,10,5.2,413,2576,2021.167,11,20,6,4,41,1,5,295,16,2.2,8,87.3,256,8,55,0,Kirin 990 5G ,144,Mali-G78 MP24 ,124.1
+Huawei nova 8 Pro 5G,7.9,1,Huawei,4000,Android,10,5.2,439,4681.6,2021,11,16,6,4,37,2,7,184,,,6.7,,128,8,66,0,Kirin 985 5G ,139,Mali-G77 MP8 ,110.1
+Huawei nova 8 5G,7.6,1,Huawei,3800,Android,10,5.1,392,459.2,2021,10,16,6,4,36,1,7,169,32,2,6.5,,128,8,66,0,Kirin 985 5G ,139,Mali-G77 MP8 ,110.1
+Huawei Enjoy 20 SE,9.3,0,Huawei,5000,Android,10,5.1,395,179.2,2021,0,9,3,4,16,4,14,206,8,2,6.6,,128,4,22.5,0,Kirin 710 ,98,Mali-G51 MP4 ,66.6
+Huawei nova 8 SE,7.5,0,Huawei,3800,Android,10,5.1,403,369.6,2020.917,5,14,6,4,29,1,7,178,16,2,6.5,,128,8,66,0,MT6753 ,49,Mali-G57 MC3 ,99.4
+Huawei Mate 40 RS Porsche Design,10.1,1,Huawei,4400,Android,10,5.2,456,1568,2020.833,11,20,6,4,41,2,5,234,,,6.7,,256,8,66,0,Kirin 990 5G ,144,Mali-G78 MP24 ,124.1
+Huawei Mate 40 Pro+,8.8,1,Huawei,4400,Android,10,5.2,456,1568,2020.833,11,20,6,4,41,2,5,230,,,6.7,,256,8,66,0,Kirin 990 5G ,144,Mali-G78 MP24 ,124.1
+Huawei Mate 40 Pro,9.1,1,Huawei,4400,Android,10,5.2,456,1299.99,2020.833,14,23,6,4,47,5,5,212,,,6.7,,128,8,66,0,Kirin 990 5G ,144,Mali-G78 MP24 ,124.1
+Huawei Mate 40,8.8,1,Huawei,4200,Android,10,5.2,402,705.6,2020.833,11,20,6,4,41,4,5,188,13,2.4,6.5,89.3,128,8,40,0,Kirin 990E 5G ,143,Mali-G78 MP22 ,122.4
+Huawei Mate 30E Pro 5G,8.8,1,Huawei,4500,Android,10,5.1,409,761.6,2020.833,7,21,6,4,38,2,7,198,,,6.5,,128,8,40,0,Kirin 990E 5G ,143,Mali-G76 MP14 ,109.6
+Huawei nova 7 SE 5G Youth,8.6,0,Huawei,4000,Android,10,5.1,405,324.8,2020.833,4,14,6,4,28,1,7,189,16,2,6.5,83.8,128,8,40,0,MT6753 ,49,Mali-G57 MC3 ,99.4
+Huawei Y7a,9.3,0,Huawei,5000,Android,10,5.1,395,179.2,2020.833,0,10,4,3,17,1,14,206,8,2,6.6,,64,4,22.5,0,Kirin 710 ,98,Mali-G51 MP4 ,66.6
+Huawei P smart 2021,9.3,0,Huawei,5000,Android,10,5.1,395,358,2020.75,0,10,5,3,18,1,14,206,8,2,6.6,,128,4,22.5,0,Kirin 710 ,98,Mali-G51 MP4 ,66.6
+Huawei Y9a,9,0,Huawei,4200,Android,10,5.1,397,224,2020.75,0,12,5,3,20,1,12,197,,2.2,6.6,,128,6,22.5,0,MT6752 ,48,Mali-G52 MC2 ,81.6
+Huawei Enjoy 20 Plus 5G,9,0,Huawei,4200,Android,10,5.1,397,313.6,2020.75,7,1,5,3,16,4,7,197,,2.2,6.6,,128,6,40,0,MT6753 ,49,Mali-G57 MC5 ,106.2
+Huawei Enjoy 20 5G,9.2,0,Huawei,5000,Android,10,5.1,266,235.2,2020.75,5,14,5,3,27,4,7,188,8,2,6.6,83.8,64,4,,0,MT6753 ,49,Mali-G57 MC5 ,106.2
+Huawei Enjoy Tablet 2,7.9,0,Huawei,5100,Android,10,5.1,224,224,2020.583,0,1,1,1,3,1,14,450,2,2.4,10,,64,4,,0,Kirin 710 ,98,Mali-G51 MP4 ,66.6
+Huawei Enjoy 20 Pro,8.4,0,Huawei,4000,Android,10,5.1,405,280,2020.5,6,1,5,3,15,4,7,192,16,2,6.5,84.7,128,6,22.5,0,MT6737 ,45,Mali-G57 MC4 ,105.1
+Huawei Enjoy Z 5G,8.4,0,Huawei,4000,Android,10,5.1,405,246.4,2020.417,6,1,5,3,15,4,7,182,16,2,6.5,84.7,64,6,22.5,0,MT6737 ,45,Mali-G57 MC4 ,105.1
+Huawei P Smart S,7.8,1,Huawei,4000,Android,10,5,418,291.2,2020.5,0,13,5,3,21,4,12,163,16,2,6.3,83.2,128,4,,0,Kirin 710 ,98,Mali-G51 MP4 ,66.6
+Huawei Y8p,7.8,1,Huawei,4000,Android,10,5,418,268.8,2020.417,0,13,5,3,21,4,12,163,16,2,6.3,83.2,128,4,,0,Kirin 710 ,98,Mali-G51 MP4 ,66.6
+Huawei P40 lite 5G,8.6,1,Huawei,4000,Android,10,5.1,405,589.68,2020.417,8,21,6,4,39,1,7,189,16,2,6.5,83.8,128,6,40,0,Kirin 990 5G ,144,Mali-G57 MC5 ,106.2
+Huawei P30 Pro New Edition,8.4,1,Huawei,4200,Android,10,5,398,634.99,2020.417,0,1,6,4,11,1,7,192,32,2,6.4,,128,6,40,0,Kirin 980 ,137,Mali-G76 MP10 ,107.6
+Huawei Y8s,8.1,0,Huawei,4000,Android,9,4.2,396,156.8,2020.417,0,9,3,4,16,2,12,180,,,6.5,82.8,64,4,,0,Kirin 710 ,98,Mali-G51 MP4 ,66.6
+Huawei Y6p,9,1,Huawei,5000,Android,10,5,278,349,2020.417,0,14,5,4,23,4,12,185,8,2,6.3,81.3,32,3,,0,MT6752 ,48,PowerVR GE8320 ,51.3
+Huawei Y5p,8.4,0,Huawei,3020,Android,10,5,295,335,2020.417,0,12,5,4,21,1,12,144,5,2.2,5.4,,32,2,,0,MT6752 ,48,PowerVR GE8320 ,51.3
+Huawei P smart 2020,8,1,Huawei,3400,Android,9,4.2,415,318,2020.333,0,5,4,4,13,3,12,160,8,2,6.2,,128,4,,0,Kirin 710 ,98,Mali-G51 MP4 ,66.6
+Huawei nova 7 Pro 5G,8,1,Huawei,4000,Android,10,5.1,392,537.6,2020.333,6,17,6,4,33,2,7,178,,,6.5,,128,8,40,0,Kirin 985 5G ,139,Mali-G77 MP8 ,110.1
+Huawei nova 7 5G,8,1,Huawei,4000,Android,10,5.1,403,436.8,2020.333,8,18,6,4,36,1,7,180,32,2.2,6.5,,128,8,40,0,Kirin 985 5G ,139,Mali-G77 MP8 ,110.1
+Huawei nova 7 SE,8.6,0,Huawei,4000,Android,10,5.1,405,358.4,2020.333,8,21,6,4,39,1,7,189,16,2,6.5,83.8,128,6,40,0,Kirin 990 5G ,144,Mali-G57 MC5 ,106.2
+Huawei Enjoy 10e,9,0,Huawei,5000,Android,10,5,278,134.4,2020.25,0,7,3,3,13,3,28,185,8,2,6.3,81.3,64,4,,0,MT6735 ,42,PowerVR GE8320 ,51.3
+Huawei P40 Pro+,9,1,Huawei,4200,Android,10,5.1,441,1120,2020.25,8,21,6,4,39,2,7,226,,,6.5,,256,8,40,0,Kirin 990 5G ,144,Mali-G76 MP16 ,110.7
+Huawei P40 Pro,9,1,Huawei,4200,Android,10,5.1,441,765,2020.25,8,22,6,4,40,2,7,209,,,6.5,,128,8,40,0,Kirin 990 5G ,144,Mali-G76 MP16 ,110.7
+Huawei P40,8.5,1,Huawei,3800,Android,10,5.1,422,459.99,2020.25,8,22,6,4,40,4,7,175,32,2,6.1,86.3,128,6,22.5,0,Kirin 990 5G ,144,Mali-G76 MP16 ,110.7
+Huawei P40 lite E,8.1,0,Huawei,4000,Android,9,5,269,398.95,2020.25,0,13,5,4,22,4,12,176,8,2,6.3,,64,4,,0,Kirin 710 ,98,Mali-G51 MP4 ,66.6
+Huawei P40 lite,8.7,1,Huawei,4200,Android,10,5,398,218,2020.167,0,18,5,4,27,1,7,183,16,2,6.4,83.5,128,6,40,0,Kirin 810 ,124,Mali-G52 MP6 ,103.8
+Huawei Mate Xs,5.4,1,Huawei,4500,Android,10,5,414,2349.59,2020.167,8,22,6,4,40,0,7,300,,,8,86.9,512,8,55,0,Kirin 990 5G ,144,Mali-G76 MP16 ,110.7
+Huawei P30 lite New Edition,7.4,1,Huawei,3340,Android,9,4.2,415,490.95,2020.083,0,7,5,4,16,4,12,152,32,2,6.1,,128,6,18,0,Kirin 710 ,98,Mali-G51 MP4 ,66.6
+Huawei Y7p,8.1,0,Huawei,4000,Android,9,5,269,156.8,2020.167,0,13,5,4,22,4,12,176,8,2,6.3,,64,4,,0,Kirin 710 ,98,Mali-G51 MP4 ,66.6
+Huawei nova 7i,8.7,0,Huawei,4200,Android,10,5.1,398,268.8,2020.083,0,18,5,4,27,1,7,183,16,2,6.4,83.5,128,8,40,0,Kirin 810 ,124,Mali-G52 MP6 ,103.8
+Huawei Y6s (2019),8,1,Huawei,3020,Android,9,4.2,282,179.2,2020.083,0,9,4,4,17,1,28,150,8,2,6,,32,3,,0,MT6735 ,42,PowerVR GE8320 ,51.3
+Huawei P smart Pro 2019,8.8,0,Huawei,4000,Android,9,4.2,391,324.8,2020,0,6,4,4,14,3,12,206,,2.2,6.5,,128,6,,0,Kirin 710 ,98,Mali-G51 MP4 ,66.6
+Huawei nova 6 5G,9,1,Huawei,4200,Android,10,5.1,401,659,2020,6,17,6,4,33,5,7,212,,,6.5,,128,8,40,0,Kirin 990 5G ,144,Mali-G76 MP16 ,110.7
+Huawei nova 6,8.6,1,Huawei,4100,Android,10,5.1,401,500.77,2020,0,15,6,4,25,5,7,197,,,6.5,,128,8,40,0,Kirin 990 5G ,144,Mali-G76 MP16 ,110.7
+Huawei nova 6 SE,8.7,0,Huawei,4200,Android,10,5,398,313.6,2020,0,11,5,4,20,1,7,183,16,2,6.4,83.5,128,8,40,0,Kirin 810 ,124,Mali-G52 MP6 ,103.8
+Huawei Mate X,5.4,1,Huawei,4500,Android,9,5,414,2408,2019.167,4,22,6,4,36,0,7,295,,,8,86.9,512,8,55,0,Kirin 980 ,137,Mali-G76 MP10 ,107.6
+Huawei Y9s,8.8,0,Huawei,4000,Android,9,4.2,391,246.4,2019.917,0,9,4,4,17,4,12,206,,2.2,6.5,,128,6,,0,Kirin 710 ,98,Mali-G51 MP4 ,66.6
+Huawei nova 5z,8.3,0,Huawei,4000,Android,9,5,412,224,2019.833,0,11,5,4,20,1,7,178,32,2,6.2,,64,6,20,0,Kirin 810 ,124,Mali-G52 MP6 ,103.8
+Huawei Enjoy 10s,7.8,0,Huawei,4000,Android,9,5,418,224,2019.833,0,8,4,3,15,4,12,163,16,2,6.3,83.2,64,6,,0,Kirin 710 ,98,Mali-G51 MP4 ,66.6
+Huawei Enjoy 10,8.1,0,Huawei,4000,Android,9,5,269,168,2019.833,0,8,3,4,15,3,12,176,8,2,6.3,,64,4,,0,Kirin 710 ,98,Mali-G51 MP4 ,66.6
+Huawei Mate 30 RS Porsche Design,9.3,1,Huawei,4500,Android,10,5.1,409,1904,2019.75,6,22,6,4,38,2,7,198,,,6.5,,512,12,40,0,Kirin 990 5G ,144,Mali-G76 MP16 ,110.7
+Huawei Mate 30 Pro 5G,8.8,1,Huawei,4500,Android,10,5.1,409,1612.8,2019.75,8,22,6,4,40,2,7,198,,,6.5,,128,8,40,0,Kirin 990 5G ,144,Mali-G76 MP16 ,110.7
+Huawei Mate 30 Pro,8.8,1,Huawei,4500,Android,10,5.1,409,1019,2019.75,0,22,6,4,32,2,7,198,,,6.5,,128,8,40,0,Kirin 990 5G ,144,Mali-G76 MP16 ,110.7
+Huawei Mate 30 5G,8.4,1,Huawei,4200,Android,10,5.1,389,728,2019.75,4,20,6,4,34,5,7,196,,,6.6,,128,6,40,0,Kirin 990 5G ,144,Mali-G76 MP16 ,110.7
+Huawei Mate 30,8.4,1,Huawei,4200,Android,10,5.1,389,616,2019.75,0,23,6,4,33,5,7,196,,,6.6,,128,6,40,0,Kirin 990 5G ,144,Mali-G76 MP16 ,110.7
+Huawei nova 5i Pro,8.3,0,Huawei,4000,Android,9,5,412,324.8,2019.583,0,11,5,4,20,1,7,178,32,2,6.2,,128,6,20,0,Kirin 810 ,124,Mali-G52 MP6 ,103.8
+Huawei Enjoy 10 Plus,8.8,0,Huawei,4000,Android,9,4.2,391,212.8,2019.75,0,11,5,4,20,4,12,163,,2.2,6.5,,128,4,,0,Kirin 710 ,98,Mali-G51 MP4 ,66.6
+Huawei nova 5T,7.8,1,Huawei,3750,Android,9,5,412,380.8,2019.667,0,15,6,4,25,1,7,174,32,2,6.2,,128,6,22.5,0,Kirin 980 ,137,Mali-G76 MP10 ,107.6
+Huawei nova 5 Pro,7.3,1,Huawei,3500,Android,9,5,403,436.8,2019.5,0,11,5,4,20,1,7,171,32,2,6.3,,128,8,40,0,Kirin 980 ,137,Mali-G76 MP10 ,107.6
+Huawei nova 5,7.3,0,Huawei,3500,Android,9,5,403,403.2,2019.5,0,11,5,4,20,1,7,171,32,2,6.3,,128,8,40,0,Kirin 810 ,124,Mali-G52 MP6 ,103.8
+Huawei nova 5i,8.3,0,Huawei,4000,Android,9,4.2,398,291.2,2019.5,0,11,5,4,20,1,12,178,24,2,6.4,84,128,6,,0,Kirin 710 ,98,Mali-G51 MP4 ,66.6
+Huawei Y9 Prime (2019),8.9,0,Huawei,4000,Android,9,5,391,246.4,2019.667,0,15,6,4,25,4,12,196,,2,6.5,,64,4,,0,Kirin 710 ,98,Mali-G51 MP4 ,66.6
+Huawei P20 lite (2019),8.3,1,Huawei,4000,Android,9,5,398,313.6,2019.5,0,7,5,4,16,1,12,178,16,2.2,6.4,84,64,4,18,0,Kirin 710 ,98,Mali-G51 MP4 ,66.6
+Huawei P Smart Z,8.8,1,Huawei,4000,Android,9,5,391,313.6,2019.417,0,5,4,4,13,3,12,196,,2,6.5,,64,4,,0,Kirin 710 ,98,Mali-G51 MP4 ,66.6
+Huawei Mate 20 X (5G),8.4,1,Huawei,4200,Android,9,5,346,851.2,2019.417,3,22,6,4,35,4,7,233,24,2,7.2,87.6,128,6,40,0,Kirin 980 ,137,Mali-G76 MP10 ,107.6
+Huawei P30 Pro,8.4,1,Huawei,4200,Android,9,5,398,350,2019.25,0,21,6,4,31,1,7,192,32,2,6.4,,128,6,40,0,Kirin 980 ,137,Mali-G76 MP10 ,107.6
+Huawei P30,7.6,1,Huawei,3650,Android,9,5,422,518,2019.25,0,21,6,4,31,4,7,165,32,2,6.1,85.8,64,8,22.5,0,Kirin 980 ,137,Mali-G76 MP10 ,107.6
+Huawei P30 lite,7.4,1,Huawei,3340,Android,9,4.2,415,153,2019.25,0,7,5,4,16,4,12,159,24,2,6.1,,64,4,18,0,Kirin 710 ,98,Mali-G51 MP4 ,66.6
+Huawei nova 4e,7.4,0,Huawei,3340,Android,9,4.2,415,302.4,2019.25,0,11,6,4,21,4,12,159,32,2,6.1,,128,4,18,0,Kirin 710 ,98,Mali-G51 MP4 ,66.6
+Huawei Y5 (2019),8.5,1,Huawei,3020,Android,9,5,295,385,2019.333,0,5,4,4,13,1,12,146,5,2.2,5.7,,16,2,,0,MT6752 ,48,PowerVR GE8320 ,51.3
+Huawei Enjoy 9e,8,0,Huawei,3020,Android,9,4.2,283,134.4,2019.25,0,8,4,4,16,1,28,150,8,2,6,,32,3,,0,MT6735 ,42,PowerVR GE8320 ,51.3
+Realme GT Neo2T,8.4,1,Realme,4500,Android,11,5.1,409,291.2,2021.833,7,13,5,4,29,4,6,186,16,2.5,6.4,,128,8,65,0,MT6739 ,50,Mali-G77 MC9 ,112.2
+Realme Q3s,8.5,0,Realme,5000,Android,11,5.2,401,224,2021.833,5,13,5,4,27,4,6,199,16,2.1,6.6,83.7,128,6,30,0,Snapdragon 780G ,147,Adreno 640 ,117.7
+Realme Narzo 50A,9.6,0,Realme,6000,Android,11,5,270,149.487,2021.75,0,7,3,4,14,4,28,207,8,2,6.5,81.7,64,4,18,0,MT6735 ,42,Mali-G52 MC2 ,81.6
+Realme Narzo 50i,8.9,0,Realme,5000,Android,11,4.2,270,97.487,2021.75,0,7,3,4,14,1,NA,195,5,2.2,6.5,80.8,32,2,,0,,,PowerVR GE8320 ,51.3
+Realme V11s 5G,8.4,0,Realme,5000,Android,11,5.1,270,212.8,2021.75,1,1,5,4,11,3,28,189,8,2,6.5,,128,4,18,0,MT6750 ,48,Mali-G57 MC5 ,106.2
+Realme GT Neo2,9,1,Realme,5000,Android,11,5.1,398,414.4,2021.75,8,16,5,4,33,4,7,199,16,2.5,6.6,,128,8,65,0,Snapdragon 870 ,151,Adreno 650 ,122.3
+Realme C25Y,9.1,0,Realme,5000,Android,11,5,270,156.8,2021.75,0,7,3,4,14,4,12,200,8,2,6.5,81.6,128,4,18,0,,,Mali-G52 MP6 ,103.8
+Realme 8s 5G,8.8,0,Realme,5000,Android,11,5.1,405,241.67,2021.75,5,12,4,4,25,4,28,191,16,2.1,6.5,83.9,128,6,33,0,MT6750 ,48,Mali-G57 MC5 ,106.2
+Realme 8i,8.5,0,Realme,5000,Android,11,5.1,400,179.75,2021.75,0,7,3,4,14,1,28,194,16,2.1,6.6,84.6,64,4,18,0,MT6752 ,48,Mali-G57 MC5 ,106.2
+Realme GT Explorer Master,72.5,1,Realme,4500,Android,11,5.2,402,467.02,2021.583,8,17,5,4,34,4,7,183,32,2.5,6.5,,128,8,65,0,Snapdragon 870 ,151,Adreno 650 ,122.3
+Realme GT Master,73.5,1,Realme,4300,Android,11,5.2,409,307.65,2021.583,13,19,5,4,41,4,6,174,32,2.5,6.4,,128,6,65,0,Snapdragon 780G ,147,Adreno 640 ,117.7
+Realme C21Y,9.1,0,Realme,5000,Android,10,5,270,145.6,2021.5,0,7,3,4,14,3,12,200,5,2.2,6.5,81.6,32,3,,0,,,Mali-G52 MP6 ,103.8
+Realme C11 (2021),8.9,0,Realme,5000,Android,11,4.2,269,95.407,2021.5,0,7,4,4,15,1,NA,190,5,2.2,6.5,,32,2,,0,,,PowerVR GE8320 ,51.3
+Realme C25s,9.6,0,Realme,6000,Android,11,5,270,145.61,2021.5,0,10,3,4,17,4,28,209,8,2,6.5,81.7,64,4,18,0,MT6735 ,42,Mali-G52 MC2 ,81.6
+Realme X7 Max 5G,8.4,1,Realme,4500,Android,11,5.1,409,350.87,2021.417,7,13,5,4,29,4,6,179,16,2.5,6.4,,128,8,50,0,MT6739 ,50,Mali-G77 MC9 ,112.2
+Realme Narzo 30 5G,8.5,0,Realme,5000,Android,11,5.1,405,188.32,2021.417,12,15,5,4,36,4,7,185,16,2.1,6.5,83.9,64,4,18,0,MT6750 ,48,Mali-G57 MC5 ,106.2
+Realme Q3 Pro Carnival,7.9,0,Realme,4500,Android,11,5.1,409,257.6,2021.417,1,1,6,4,12,4,7,174,32,,6.4,,128,8,50,0,Snapdragon 768G ,136,Adreno 620 ,105.2
+Realme GT Neo Flash,8.4,1,Realme,4500,Android,11,5.1,409,324.8,2021.417,7,13,5,4,29,4,6,179,16,2.5,6.4,,256,8,65,0,MT6739 ,50,Mali-G77 MC9 ,112.2
+Realme Narzo 30,9.4,1,Realme,5000,Android,11,5,405,204.99,2021.417,0,12,5,4,21,4,12,192,16,2.1,6.5,83.4,64,4,30,0,MT6752 ,48,Mali-G57 MC4 ,105.1
+Realme C20A,8.9,0,Realme,5000,Android,10,5,270,100.8,2021.417,0,10,3,4,17,1,12,190,5,2.2,6.5,80.8,32,2,,0,MT6752 ,48,PowerVR GE8320 ,51.3
+Realme Q3 Pro 5G,8.4,0,Realme,4500,Android,11,5.1,409,235.2,2021.333,7,13,6,4,30,4,6,179,16,2.5,6.4,,128,6,30,0,MT6739 ,50,Mali-G77 MC9 ,112.2
+Realme Q3 5G,8.8,0,Realme,5000,Android,11,5.1,405,190.4,2021.333,4,10,5,4,23,4,8,189,16,2.1,6.5,83.9,128,6,30,0,Snapdragon 750G ,132,Adreno 619 ,103.4
+Realme Q3i 5G,8.5,0,Realme,5000,Android,11,5.1,405,145.6,2021.333,1,1,5,4,11,4,7,185,16,2.1,6.5,83.9,128,4,18,0,MT6750 ,48,Mali-G57 MC5 ,106.2
+Realme 8 5G,8.5,1,Realme,5000,Android,11,5.1,405,187.68,2021.333,12,19,5,4,40,4,7,185,16,2.1,6.5,83.9,64,4,18,0,MT6750 ,48,Mali-G57 MC5 ,106.2
+Realme X7 Pro Ultra,7.8,1,Realme,4500,Android,11,5.1,402,347.2,2021.333,6,17,5,4,32,4,28,170,32,2.5,6.5,,128,8,65,0,MT6739 ,50,Mali-G77 MC9 ,112.2
+Realme GT Neo,8.4,1,Realme,4500,Android,11,5.1,409,291.2,2021.25,7,13,5,4,29,4,6,179,16,2.5,6.4,,128,6,50,0,MT6739 ,50,Mali-G77 MC9 ,112.2
+Realme V13 5G,8.5,0,Realme,5000,Android,11,5.1,405,235.2,2021.25,5,12,5,4,26,4,7,185,8,2,6.5,83.9,128,8,18,0,MT6750 ,48,Mali-G57 MC5 ,106.2
+Realme 8 Pro,8.1,1,Realme,4500,Android,11,5,411,310,2021.25,0,10,3,4,17,1,8,176,16,2.5,6.4,83.3,128,6,50,0,Snapdragon 720G ,123,Adreno 618 ,99
+Realme 8,8,1,Realme,5000,Android,11,5.1,411,202.38,2021.25,0,7,3,4,14,1,12,177,16,2.5,6.4,83.3,64,4,30,0,MT6752 ,48,Mali-G57 MC4 ,105.1
+Realme C25,9.6,0,Realme,6000,Android,11,5,270,156.8,2021.25,0,7,3,4,14,4,12,209,8,2,6.5,81.7,64,4,18,0,MT6752 ,48,Mali-G52 MC2 ,81.6
+Realme C21,8.9,0,Realme,5000,Android,10,5,270,107.99,2021.25,0,10,3,4,17,3,12,190,5,2.2,6.5,80.8,32,3,,0,MT6752 ,48,PowerVR GE8320 ,51.3
+Realme GT 5G,8.4,1,Realme,4500,Android,11,5.2,409,436,2021.25,7,18,5,4,34,4,5,186,16,2.5,6.4,,128,8,65,0,Snapdragon 888 ,158,Adreno 660 ,131.3
+Realme Narzo 30 Pro 5G,9.1,0,Realme,5000,Android,10,5.1,405,224,2021.167,5,12,6,4,27,4,7,196,16,2.1,6.5,83.7,64,6,30,0,MT6753 ,49,Mali-G57 MC3 ,99.4
+Realme Narzo 30A,9.8,0,Realme,6000,Android,10,5,270,138.77,2021.167,0,7,3,4,14,3,28,205,8,2,6.5,81.7,32,3,18,0,MT6735 ,42,Mali-G52 MC2 ,81.6
+Realme V11 5G,8.4,0,Realme,5000,Android,11,5.1,270,179.2,2021.167,5,11,5,4,25,3,7,186,8,2,6.5,,128,4,18,0,MT6750 ,48,Mali-G57 MC5 ,106.2
+Realme C20,8.9,0,Realme,5000,Android,10,5.1,270,100.8,2021.083,0,7,3,4,14,1,12,190,5,2.2,6.5,80.8,32,2,,0,MT6752 ,48,PowerVR GE8320 ,51.3
+Realme X7 (India),8.1,0,Realme,4310,Android,10,5.1,411,257.6,2021.167,4,14,5,4,27,4,7,176,16,2.5,6.4,82.6,128,6,50,0,MT6753 ,49,Mali-G57 MC3 ,99.4
+Realme V15 5G,8.1,0,Realme,4310,Android,10,5.1,411,212.8,2021.083,4,15,5,4,28,4,7,176,16,2.5,6.4,82.6,128,6,50,0,MT6753 ,49,Mali-G57 MC3 ,99.4
+Realme 7i (Global),9.8,0,Realme,6000,Android,10,5,270,149.99,2021,0,12,5,4,21,4,28,208,8,2,6.5,81.7,64,4,18,0,MT6735 ,42,Mali-G52 MC2 ,81.6
+Realme 7 5G,9.1,1,Realme,5000,Android,10,5.1,405,189.05,2020.917,12,15,6,4,37,1,7,195,16,2.1,6.5,83.7,128,6,30,0,MT6753 ,49,Mali-G57 MC3 ,99.4
+Realme C15 Qualcomm Edition,9.8,0,Realme,6000,Android,10,5,270,123.2,2020.833,0,7,3,4,14,1,11,209,8,2,6.5,81.7,32,3,18,0,Snapdragon 460 ,99,Adreno 610 ,80.2
+Realme Q2 Pro,8.1,0,Realme,4300,Android,10,5.1,411,257.6,2020.833,5,12,5,4,26,1,7,175,16,2.5,6.4,82.6,128,8,65,0,MT6753 ,49,Mali-G57 MC3 ,99.4
+Realme Q2,9.1,0,Realme,5000,Android,10,5,405,179.2,2020.833,5,12,5,4,26,4,7,194,16,2.1,6.5,83.7,128,4,30,0,MT6753 ,49,Mali-G57 MC3 ,99.4
+Realme Q2i,8.6,0,Realme,5000,Android,10,5,270,145.6,2020.833,5,11,5,4,25,4,7,189,8,2,6.5,81.6,128,4,18,0,MT6753 ,49,Mali-G57 MC3 ,99.4
+Realme 7 (Global),9.4,1,Realme,5000,Android,10,5,405,169.72,2020.833,0,12,5,4,21,1,12,196,16,2.1,6.5,83.4,64,4,30,0,MT6752 ,48,Mali-G57 MC4 ,105.1
+Realme Narzo 20 Pro,9.4,0,Realme,4500,Android,10,5,405,190.4,2020.75,0,7,3,4,14,1,12,191,16,2.1,6.5,83.4,64,6,65,0,MT6752 ,48,Mali-G57 MC4 ,105.1
+Realme Narzo 20,9.8,0,Realme,6000,Android,10,5,270,145.6,2020.75,0,7,3,4,14,4,28,208,8,2,6.5,81.7,64,4,18,0,MT6735 ,42,Mali-G52 MC2 ,81.6
+Realme Narzo 20A,8.9,0,Realme,5000,Android,10,4.2,270,112,2020.75,0,7,3,4,14,4,11,195,8,2,6.5,82.3,32,3,,0,Snapdragon 665 ,101,Adreno 610 ,80.2
+Realme C17,8.9,0,Realme,5000,Android,10,5,270,179.2,2020.75,0,7,3,4,14,1,11,188,8,2,6.5,82.3,64,4,18,0,Snapdragon 460 ,99,Adreno 610 ,80.2
+Realme 7i,8.9,0,Realme,5000,Android,10,5,270,201.6,2020.75,0,7,3,4,14,1,11,188,16,2.1,6.5,82.3,64,4,18,0,Snapdragon 662 ,101,Adreno 610 ,80.2
+Realme 7 Pro,8.7,1,Realme,4500,Android,10,5.1,411,256.99,2020.75,0,12,5,4,21,1,8,182,32,2.5,6.4,82.7,128,6,65,0,Snapdragon 720G ,123,Adreno 618 ,99
+Realme 7 (Asia),9.4,1,Realme,5000,Android,10,5,405,190.4,2020.75,0,7,3,4,14,1,12,196,16,2.1,6.5,83.4,64,6,30,0,MT6752 ,48,Mali-G57 MC4 ,105.1
+Realme X7 Pro,8.5,1,Realme,4500,Android,10,5,402,415.64,2020.75,12,18,5,4,39,1,28,184,32,2.5,6.5,,128,6,65,0,MT6739 ,50,Mali-G77 MC9 ,112.2
+Realme X7,8.1,0,Realme,4300,Android,10,5.1,411,314.37,2020.75,5,12,5,4,26,1,7,175,32,2.5,6.4,82.6,128,6,65,0,MT6753 ,49,Mali-G57 MC3 ,99.4
+Realme V3,8.6,0,Realme,5000,Android,10,5,270,134.4,2020.75,5,11,5,4,25,4,7,189,8,2,6.5,81.6,64,6,18,0,MT6753 ,49,Mali-G57 MC3 ,99.4
+Realme C12,9.8,0,Realme,6000,Android,10,5,264,123.2,2020.667,0,7,3,4,14,4,12,209,5,2,6.5,83.1,32,3,,0,MT6752 ,48,PowerVR GE8320 ,51.3
+Realme V5 5G,9.1,0,Realme,5000,Android,10,5,405,201.6,2020.667,5,12,6,4,27,1,7,194,16,2.1,6.5,83.9,128,6,30,0,MT6753 ,49,Mali-G57 MC3 ,99.4
+Realme C15,9.8,0,Realme,6000,Android,10,5,270,227.28,2020.583,0,7,3,4,14,1,12,209,8,2,6.5,81.7,32,3,18,0,MT6752 ,48,PowerVR GE8320 ,51.3
+Realme 6i (India),8.9,0,Realme,4300,Android,10,5,405,168,2020.583,0,7,3,4,14,1,12,191,16,2,6.5,84.1,64,4,30,0,MT6750T ,51,Mali-G57 MC4 ,105.1
+Realme X50 5G,8.9,1,Realme,4200,Android,10,5,401,309.06,2020.583,12,12,5,4,33,2,7,194,,,6.5,,128,6,30,0,Snapdragon 765G ,134,Adreno 620 ,105.2
+Realme C11,9.1,0,Realme,5000,Android,10,5,264,95.29,2020.5,0,10,3,4,17,3,12,196,5,2.4,6.5,83.1,32,2,,0,MT6752 ,48,PowerVR GE8320 ,51.3
+Realme X3,8.9,0,Realme,4200,Android,10,5,399,324.8,2020.5,0,8,3,4,15,2,7,202,,,6.6,84.7,128,6,30,0,Snapdragon 855+ ,145,Adreno 640 ,117.7
+Realme C3i,9,0,Realme,5000,Android,10,5,270,112,2020.5,0,7,3,4,14,3,12,195,5,2.4,6.5,82.7,32,2,,0,MT6752 ,48,Mali-G52 MC2 ,81.6
+Realme Narzo,8.9,0,Realme,4300,Android,10,5,405,212.8,2020.5,0,7,3,4,14,1,12,191,16,2,6.5,84.1,128,4,30,0,MT6750T ,51,Mali-G57 MC4 ,105.1
+Realme X3 SuperZoom,8.9,1,Realme,4200,Android,10,5,399,529.3666,2020.417,0,12,3,4,19,2,7,202,,,6.6,84.7,128,8,30,0,Snapdragon 855+ ,145,Adreno 640 ,117.7
+Realme 6S,8.9,0,Realme,4300,Android,11,5,405,216,2020.417,0,12,5,4,21,1,12,191,16,2,6.5,84.1,64,4,30,0,MT6750T ,51,Mali-G57 MC4 ,105.1
+Realme X50 Pro Player,8.9,1,Realme,4200,Android,10,5.1,409,392,2020.417,6,15,6,4,31,2,7,209,,,6.4,,128,6,65,0,Snapdragon 865 ,149,Adreno 650 ,122.3
+Realme Narzo 10,9,0,Realme,5000,Android,10,5,269,168,2020.417,0,7,3,4,14,1,12,199,16,2,6.5,82.9,128,4,18,0,MT6752 ,48,Mali-G52 MC2 ,81.6
+Realme Narzo 10A,9,0,Realme,5000,Android,10,5,270,112,2020.417,0,7,3,4,14,4,12,195,5,2.4,6.5,82.7,32,3,,0,MT6752 ,48,Mali-G52 MC2 ,81.6
+Realme X50m 5G,8.9,1,Realme,4200,Android,10,5,399,291.2,2020.333,6,12,5,4,27,2,7,194,,,6.5,,128,6,30,0,Snapdragon 765G ,134,Adreno 620 ,105.2
+Realme 6i,9,1,Realme,5000,Android,10,5,269,180,2020.25,0,12,5,4,21,1,12,199,16,2,6.5,82.9,64,3,18,0,MT6752 ,48,Mali-G52 MC2 ,81.6
+Realme 6 Pro,8.9,1,Realme,4300,Android,10,5.1,399,279,2020.25,0,12,5,4,21,2,8,202,,,6.6,84.7,64,6,30,0,Snapdragon 720G ,123,Adreno 618 ,99
+Realme 6,8.9,1,Realme,4300,Android,10,5,405,196.9,2020.25,0,12,5,4,21,1,12,191,16,2,6.5,84.1,64,4,30,0,MT6750T ,51,Mali-G57 MC4 ,105.1
+Realme X50 Pro 5G,8.9,1,Realme,4200,Android,10,5.1,409,727.77,2020.167,10,21,6,4,41,2,7,205,,,6.4,,128,6,65,0,Snapdragon 865 ,149,Adreno 650 ,122.3
+Realme C3 (3 cameras),9,0,Realme,5000,Android,10,5,270,168,2020.167,0,10,3,4,17,4,12,195,5,2.4,6.5,82.7,32,2,,0,MT6752 ,48,Mali-G52 MC2 ,81.6
+Realme C3,9,0,Realme,5000,Android,10,5,270,100.8,2020.167,0,7,3,4,14,3,12,195,5,2.4,6.5,82.7,32,2,,0,MT6752 ,48,Mali-G52 MC2 ,81.6
+Realme X50 5G (China),8.9,1,Realme,4200,Android,10,5,401,761.6,2020.083,4,12,5,4,25,2,7,202,,,6.5,,64,6,30,0,Snapdragon 765G ,134,Adreno 620 ,105.2
+Realme 5i,9.3,0,Realme,5000,Android,9,5,269,143.5,2020.083,0,10,3,4,17,1,11,195,8,2,6.5,,32,3,,0,Snapdragon 665 ,101,Adreno 610 ,80.2
+Realme 5s,9.3,0,Realme,5000,Android,9,5,269,302.4,2019.917,0,7,3,4,14,1,11,198,13,2,6.5,82.7,64,4,,0,Snapdragon 665 ,101,Adreno 610 ,80.2
+Realme C2s,8.5,0,Realme,4000,Android,9,4.2,282,44.8,2020.083,0,7,3,4,14,3,12,166,5,2,6.1,80.3,32,3,,0,MT6752 ,48,PowerVR GE8320 ,51.3
+Realme C2 2020,8.5,0,Realme,4000,Android,9,4.2,282,112,2019.917,0,7,3,4,14,3,12,166,5,2,6.1,80.3,32,2,,0,MT6752 ,48,PowerVR GE8320 ,51.3
+Realme X2 Pro,8.7,1,Realme,4000,Android,9,5,402,495.8464,2019.833,0,18,5,4,27,1,7,199,16,2,6.5,84.9,64,6,50,0,Snapdragon 855+ ,145,Adreno 640 ,117.7
+Realme X2,8.6,1,Realme,4000,Android,9,5,403,359.99,2019.75,0,10,4,4,18,1,8,182,32,2,6.4,84.3,64,4,30,0,Snapdragon 730G ,124,Adreno 618 ,99
+Realme XT 730G,8.6,0,Realme,4000,Android,9,5,403,619.88,2020.583,0,7,3,4,14,1,8,183,16,2,6.4,84.3,64,4,30,0,Snapdragon 730G ,124,Adreno 618 ,99
+Realme XT,8.6,0,Realme,4000,Android,9,5,403,324.8,2019.75,0,7,3,4,14,1,10,183,16,2,6.4,84.3,64,4,20,0,Snapdragon 712 ,114,Adreno 616 ,90.1
+Realme Q,8.9,0,Realme,4035,Android,9,5,409,145.6,2019.75,0,9,3,4,16,1,10,184,16,2,6.3,83.6,64,4,20,0,Snapdragon 712 ,114,Adreno 616 ,90.1
+Realme 5 Pro,8.9,0,Realme,4035,Android,9,5,409,226.0867,2019.667,0,7,3,4,14,1,10,184,16,2,6.3,83.6,64,4,20,0,Snapdragon 712 ,114,Adreno 616 ,90.1
+Realme 5,9.3,0,Realme,5000,Android,9,5,269,212.8,2019.667,0,7,3,4,14,1,11,198,13,2,6.5,82.7,32,3,,0,Snapdragon 665 ,101,Adreno 610 ,80.2
+Realme 3i,8.3,0,Realme,4230,Android,9,4.2,271,104,2019.583,0,7,3,4,14,3,12,175,13,2,6.2,81.3,32,3,,0,MT6752 ,48,Mali-G72 MP3 ,77
+Realme X,9.4,0,Realme,3765,Android,9,5,394,179.2,2019.417,0,10,4,4,18,3,10,191,,2,6.5,,64,4,20,0,Snapdragon 710 ,113,Adreno 616 ,90.1
+Realme 3 Pro,8.3,0,Realme,4045,Android,9,5,409,302.4,2019.333,0,7,3,4,14,3,10,172,25,2,6.3,83.7,64,4,20,0,Snapdragon 710 ,113,Adreno 616 ,90.1
+Realme C2,8.5,0,Realme,4000,Android,9,4.2,282,78,2019.333,0,7,3,4,14,3,12,166,5,2,6.1,80.3,16,2,,0,MT6752 ,48,PowerVR GE8320 ,51.3
+Realme 3,8.3,0,Realme,4230,Android,9,4.2,270,117,2019.25,0,10,3,4,17,3,12,175,13,2,6.2,,32,3,,0,MT6752 ,48,Mali-G72 MP3 ,77
+Realme C1 (2019),8.2,0,Realme,4230,Android,8,4.2,271,97.5,2019.083,0,7,3,4,14,3,14,168,5,2.2,6.2,81.2,32,2,,0,Snapdragon 450 ,69,Adreno 506 ,59.7
+Realme U1,8,0,Realme,3500,Android,8,4.2,409,145.6,2018.917,0,7,3,4,14,3,28,168,25,2,6.3,83.9,32,3,,0,MT6750 ,48,Mali-G72 MP3 ,77
+Realme 2 Pro,8.5,0,Realme,3500,Android,8,5,409,168,2018.75,0,9,3,4,16,3,14,174,16,2,6.3,84,64,4,,0,Snapdragon 660 ,101,Adreno 512 ,79.1
+Realme C1,8.2,0,Realme,4230,Android,8,4.2,271,112,2018.75,0,7,3,4,14,3,14,168,5,2.2,6.2,81.2,16,2,,0,Snapdragon 450 ,69,Adreno 506 ,59.7
+Realme 2,8.2,0,Realme,4230,Android,8,4.2,271,134.4,2018.667,0,7,3,4,14,3,14,168,8,2.2,6.2,81.2,32,3,,0,Snapdragon 450 ,69,Adreno 506 ,59.7
+Realme 1,7.8,0,Realme,3410,Android,8,4.2,402,145.6,2018.417,0,7,3,4,14,1,12,155,8,2.2,6,78.9,32,3,,0,MT6752 ,48,Mali-G72 MP3 ,77
